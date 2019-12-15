@@ -1,142 +1,80 @@
-import { Phone } from "./phone";
+import { Phone } from './phone';
 
 export interface Spellable {
-    rawSpelling: string;
-    phonemes: Phone[];
+	rawSpelling: string;
+	phonemes: Phone[];
+}
+
+const rules = [
+	{ pattern: /^IA\d+ R$/, replacement: '𐑽' },
+	{ pattern: /^ER[12]?( R)?$/, replacement: '𐑻' },
+	{ pattern: /^EA[12] R$/, replacement: '𐑺' },
+	{ pattern: /^AO\d R$/, replacement: '𐑹' },
+	{ pattern: /^AA\d R$/, replacement: '𐑸' },
+	{ pattern: /^AXR$/, replacement: '𐑼' },
+	{ pattern: /^UA\d R$/, replacement: '𐑫𐑼' },
+	{ pattern: /^UW\d?$/, replacement: '𐑵' },
+	{ pattern: /^UH\d?$/, replacement: '𐑫' },
+	{ pattern: /^AW\d?$/, replacement: '𐑬' },
+	{ pattern: /^OY\d?$/, replacement: '𐑶' },
+	{ pattern: /^EH\d?$/, replacement: '𐑧' },
+	{ pattern: /^EY\d?$/, replacement: '𐑱' },
+	{ pattern: /^AY\d?$/, replacement: '𐑲' },
+	{ pattern: /^AE\d?$/, replacement: '𐑨' },
+	{ pattern: /^OW\d?$/, replacement: '𐑴' },
+	{ pattern: /^OH\d?$/, replacement: '𐑪' },
+	{ pattern: /^AX0?$/, replacement: '𐑩' },
+	{ pattern: /^AH\d?$/, replacement: '𐑳' },
+	{ pattern: /^AA\d?$/, replacement: '𐑭' },
+	{ pattern: /^AO\d$/, replacement: '𐑷' },
+	{ pattern: /^IH\d+$/, replacement: '𐑦' },
+	{ pattern: /^IY\d+$/, replacement: '𐑰' },
+	{ pattern: /^IA\d+$/, replacement: '𐑾' },
+	{ pattern: 'B', replacement: '𐑚' },
+	{ pattern: 'CH', replacement: '𐑗' },
+	{ pattern: 'D', replacement: '𐑛' },
+	{ pattern: 'DH', replacement: '𐑞' },
+	{ pattern: 'F', replacement: '𐑓' },
+	{ pattern: 'G', replacement: '𐑜' },
+	{ pattern: 'HH', replacement: '𐑣' },
+	{ pattern: 'JH', replacement: '𐑡' },
+	{ pattern: 'K', replacement: '𐑒' },
+	{ pattern: 'L', replacement: '𐑤' },
+	{ pattern: 'M', replacement: '𐑥' },
+	{ pattern: 'N', replacement: '𐑯' },
+	{ pattern: 'NG', replacement: '𐑙' },
+	{ pattern: 'P', replacement: '𐑐' },
+	{ pattern: 'R', replacement: '𐑮' },
+	{ pattern: 'S', replacement: '𐑕' },
+	{ pattern: 'SH', replacement: '𐑖' },
+	{ pattern: 'T', replacement: '𐑑' },
+	{ pattern: 'TH', replacement: '𐑔' },
+	{ pattern: 'V', replacement: '𐑝' },
+	{ pattern: 'W', replacement: '𐑢' },
+	{ pattern: 'Y', replacement: '𐑘' },
+	{ pattern: 'Z', replacement: '𐑟' },
+	{ pattern: 'ZH', replacement: '𐑠' }
+];
+
+export function shavianize(phone: Phone): string {
+	for (let rule of rules) {
+		if (typeof rule.pattern === 'string' && rule.pattern === phone) {
+			return rule.replacement;
+		}
+		if (rule.pattern instanceof RegExp && rule.pattern.test(phone.toString())) {
+			return rule.replacement;
+		}
+	}
+
+	return phone.toString();
 }
 
 export function spell(spellable: Spellable): string {
-    const phonemes = spellable.phonemes.map(phone => {
-        if (phone.match(/^UW\d?/)) {
-            return '𐑵';
-        }
+	const phonemes = spellable.phonemes.map(shavianize);
 
-        if (phone.match(/^AW\d?/)) {
-            return '𐑬';
-        }
+	if (spellable.rawSpelling.match(/ED$/)) {
+		phonemes[phonemes.length - 2] = phonemes[phonemes.length - 2].replace(/𐑦$/, '𐑩');
+	}
 
-        if (phone.match(/^OY\d?/)) {
-            return '𐑶';
-        }
-
-        if (phone.match(/^EH\d?/)) {
-            return '𐑧';
-        }
-
-        if (phone.match(/^EY\d?/)) {
-            return '𐑱';
-        }
-
-        if (phone.match(/^AE\d?/)) {
-            return '𐑨';
-        }
-
-        if (phone.match(/^AY\d?/)) {
-            return '𐑲';
-        }
-
-        if (phone.match(/^OH\d?/)) {
-            return '𐑪';
-        }
-
-        if (phone.match(/^OW\d?/)) {
-            return '𐑴';
-        }
-
-        if (phone.match(/^UH\d?/)) {
-            return '𐑫';
-        }
-
-        if (phone.match(/^AXR$/)) {
-            return '𐑼';
-        }
-
-        if (phone.match(/^AX0?$/)) {
-            return '𐑩';
-        }
-
-        if (phone.match(/^ER[12]?/)) {
-            return '𐑻';
-        }
-
-
-        if (phone.match(/^EA[12] R?/)) {
-            return '𐑺';
-        }
-
-        if (phone.match(/^AH1?/)) {
-            return '𐑳';
-        }
-       
-        if (phone.match(/^AO\d R?/)) {
-            return '𐑹';
-        }
-
-        if (phone.match(/^AA\d R?/)) {
-            return '𐑸';
-        }
-
-        if (phone.match(/^AA\d?/)) {
-            return '𐑭';
-        }
-
-        if (phone.match(/^UA\d R?/)) {
-            return '𐑫𐑼';
-        }
-
-
-        if (phone.match(/^AO\d?/)) {
-            return '𐑷';
-        }
-
-        if (phone.match(/^IH\d+?/)) {
-            return '𐑦';
-        }
-
-        if (phone.match(/^IY\d+?/)) {
-            return '𐑰';
-        }
-
-        if (phone.match(/^IA\d+ R?/)) {
-            return '𐑽';
-        }
-
-        if (phone.match(/^IA\d+/)) {
-            return '𐑾';
-        }
-
-        switch (phone) {
-            case 'B': return '𐑚';
-            case 'CH': return '𐑗';
-            case 'D': return '𐑛';
-            case 'DH': return '𐑞';
-            case 'F': return '𐑓';
-            case 'G': return '𐑜';
-            case 'HH': return '𐑣';
-            case 'JH': return '𐑡';
-            case 'K': return '𐑒';
-            case 'L': return '𐑤';
-            case 'M': return '𐑥';
-            case 'N': return '𐑯';
-            case 'NG': return '𐑙';
-            case 'P': return '𐑐';
-            case 'R': return '𐑮';
-            case 'S': return '𐑕';
-            case 'SH': return '𐑖';
-            case 'T': return '𐑑';
-            case 'TH': return '𐑔';
-            case 'V': return '𐑝';
-            case 'W': return '𐑢';
-            case 'Y': return '𐑘';
-            case 'Z': return '𐑟';
-            case 'ZH': return '𐑠';
-        }
-        return phone;
-    });
-
-    if (spellable.rawSpelling.match(/ED$/)) {
-        phonemes[phonemes.length - 2] = phonemes[phonemes.length - 2].replace(/𐑦$/, '𐑩');
-    }
-
-    return phonemes.join('').replace("𐑘𐑵", "𐑿");
+	return phonemes.join('').replace('𐑘𐑵', '𐑿');
 }
