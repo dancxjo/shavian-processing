@@ -6,12 +6,14 @@ export interface Spellable {
 }
 
 const rules = [
-	{ pattern: /^IA\d+ R$/, replacement: '𐑽' },
+    { pattern: /^IA\d+ R$/, replacement: '𐑽' },
+    { pattern: /^I\d+$/, replacement: '𐑦' },
 	{ pattern: /^ER[12]?( R)?$/, replacement: '𐑻' },
-	{ pattern: /^EA[12] R$/, replacement: '𐑺' },
+    { pattern: /^EA[12] R$/, replacement: '𐑺' },
+    { pattern: /^AE\d R$/, replacement: '𐑨𐑮' },
 	{ pattern: /^AO\d R$/, replacement: '𐑹' },
 	{ pattern: /^AA\d R$/, replacement: '𐑸' },
-	{ pattern: /^AXR$/, replacement: '𐑼' },
+	{ pattern: /^AX\s*R$/, replacement: '𐑼' },
 	{ pattern: /^UA\d R$/, replacement: '𐑫𐑼' },
 	{ pattern: /^UW\d?$/, replacement: '𐑵' },
 	{ pattern: /^UH\d?$/, replacement: '𐑫' },
@@ -76,5 +78,5 @@ export function spell(spellable: Spellable): string {
 		phonemes[phonemes.length - 2] = phonemes[phonemes.length - 2].replace(/𐑦$/, '𐑩');
 	}
 
-	return phonemes.join('').replace('𐑘𐑵', '𐑿');
+	return phonemes.join('').replace('𐑘𐑵', '𐑿').replace('𐑦𐑩', '𐑾').replace('𐑦𐑼', '𐑽');
 }

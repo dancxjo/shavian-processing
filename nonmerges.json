@@ -100,50 +100,6 @@
     "gaPhone": "AE0"
   },
   {
-    "spelling": "AFTER",
-    "rp": [
-      "AA1",
-      "F",
-      "T",
-      "AX"
-    ],
-    "ga": [
-      "AE1",
-      "F",
-      "T",
-      "AXR"
-    ],
-    "j": 0,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "AFTERWARDS",
-    "rp": [
-      "AA1",
-      "F",
-      "T",
-      "AX",
-      "W",
-      "AX",
-      "D",
-      "Z"
-    ],
-    "ga": [
-      "AE1",
-      "F",
-      "T",
-      "AXR",
-      "W",
-      "AXR",
-      "D",
-      "Z"
-    ],
-    "j": 0,
-    "len": 8,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "AGED",
     "rp": [
       "EY1",
@@ -210,26 +166,6 @@
     "j": 2,
     "len": 3,
     "gaPhone": "D"
-  },
-  {
-    "spelling": "AGHAST",
-    "rp": [
-      "AX",
-      "G",
-      "AA1",
-      "S",
-      "T"
-    ],
-    "ga": [
-      "AX",
-      "G",
-      "AE1",
-      "S",
-      "T"
-    ],
-    "j": 2,
-    "len": 5,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "ALTERNATELY",
@@ -326,44 +262,6 @@
     "gaPhone": "AX"
   },
   {
-    "spelling": "ANSWER",
-    "rp": [
-      "AA1",
-      "N",
-      "S",
-      "AX"
-    ],
-    "ga": [
-      "AE1",
-      "N",
-      "S",
-      "AXR"
-    ],
-    "j": 0,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "ANSWERED",
-    "rp": [
-      "AA1",
-      "N",
-      "S",
-      "AX",
-      "D"
-    ],
-    "ga": [
-      "AE1",
-      "N",
-      "S",
-      "AXR",
-      "D"
-    ],
-    "j": 0,
-    "len": 5,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "ARCHWAY",
     "rp": [
       "AA1",
@@ -381,24 +279,6 @@
     "j": 4,
     "len": 5,
     "gaPhone": "EY2"
-  },
-  {
-    "spelling": "ASKED",
-    "rp": [
-      "AA1",
-      "S",
-      "K",
-      "T"
-    ],
-    "ga": [
-      "AE1",
-      "S",
-      "K",
-      "T"
-    ],
-    "j": 0,
-    "len": 4,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "ASSUME",
@@ -438,22 +318,6 @@
     "gaPhone": "AE0"
   },
   {
-    "spelling": "BATH",
-    "rp": [
-      "B",
-      "AA1",
-      "TH"
-    ],
-    "ga": [
-      "B",
-      "AE1",
-      "TH"
-    ],
-    "j": 1,
-    "len": 3,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "BEDEWED",
     "rp": [
       "B",
@@ -473,34 +337,6 @@
     "j": 3,
     "len": 5,
     "gaPhone": "UW1"
-  },
-  {
-    "spelling": "BLASPHEMOUS",
-    "rp": [
-      "B",
-      "L",
-      "AA1",
-      "S",
-      "F",
-      "AX",
-      "M",
-      "AX",
-      "S"
-    ],
-    "ga": [
-      "B",
-      "L",
-      "AE1",
-      "S",
-      "F",
-      "AX",
-      "M",
-      "AX",
-      "S"
-    ],
-    "j": 2,
-    "len": 9,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "BLESSED",
@@ -560,72 +396,6 @@
     "gaPhone": "AE0"
   },
   {
-    "spelling": "CASK",
-    "rp": [
-      "K",
-      "AA1",
-      "S",
-      "K"
-    ],
-    "ga": [
-      "K",
-      "AE1",
-      "S",
-      "K"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "CASKS",
-    "rp": [
-      "K",
-      "AA1",
-      "S",
-      "K",
-      "S"
-    ],
-    "ga": [
-      "K",
-      "AE1",
-      "S",
-      "K",
-      "S"
-    ],
-    "j": 1,
-    "len": 5,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "CASTELLATED",
-    "rp": [
-      "K",
-      "AA1",
-      "S",
-      "IH0",
-      "L",
-      "EY2",
-      "T",
-      "IH0",
-      "D"
-    ],
-    "ga": [
-      "K",
-      "AE1",
-      "S",
-      "IH0",
-      "L",
-      "EY2",
-      "T",
-      "IH0",
-      "D"
-    ],
-    "j": 1,
-    "len": 9,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "CESSATION",
     "rp": [
       "S",
@@ -682,26 +452,6 @@
     "j": 1,
     "len": 12,
     "gaPhone": "ER2"
-  },
-  {
-    "spelling": "CLASP",
-    "rp": [
-      "K",
-      "L",
-      "AA1",
-      "S",
-      "P"
-    ],
-    "ga": [
-      "K",
-      "L",
-      "AE1",
-      "S",
-      "P"
-    ],
-    "j": 2,
-    "len": 5,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "CLOSE",
@@ -881,28 +631,6 @@
     "gaPhone": "ER1"
   },
   {
-    "spelling": "DANCERS",
-    "rp": [
-      "D",
-      "AA1",
-      "N",
-      "S",
-      "AX",
-      "Z"
-    ],
-    "ga": [
-      "D",
-      "AE1",
-      "N",
-      "S",
-      "AXR",
-      "Z"
-    ],
-    "j": 1,
-    "len": 6,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "DE",
     "rp": [
       "D",
@@ -1038,32 +766,6 @@
     "j": 6,
     "len": 8,
     "gaPhone": "IH0"
-  },
-  {
-    "spelling": "DEMANDED",
-    "rp": [
-      "D",
-      "IH0",
-      "M",
-      "AA1",
-      "N",
-      "D",
-      "IH0",
-      "D"
-    ],
-    "ga": [
-      "D",
-      "IH0",
-      "M",
-      "AE1",
-      "N",
-      "D",
-      "IH0",
-      "D"
-    ],
-    "j": 3,
-    "len": 8,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "DESERT",
@@ -1355,30 +1057,6 @@
     "gaPhone": "AH0"
   },
   {
-    "spelling": "DISASTER",
-    "rp": [
-      "D",
-      "IH0",
-      "Z",
-      "AA1",
-      "S",
-      "T",
-      "AX"
-    ],
-    "ga": [
-      "D",
-      "IH0",
-      "Z",
-      "AE1",
-      "S",
-      "T",
-      "AXR"
-    ],
-    "j": 3,
-    "len": 7,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "DO",
     "rp": [
       "D",
@@ -1459,26 +1137,6 @@
     "j": 5,
     "len": 9,
     "gaPhone": "Y"
-  },
-  {
-    "spelling": "DRAUGHT",
-    "rp": [
-      "D",
-      "R",
-      "AA1",
-      "F",
-      "T"
-    ],
-    "ga": [
-      "D",
-      "R",
-      "AE1",
-      "F",
-      "T"
-    ],
-    "j": 2,
-    "len": 5,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "DUKE",
@@ -1674,32 +1332,6 @@
     "gaPhone": "EH0"
   },
   {
-    "spelling": "ENCHANTED",
-    "rp": [
-      "IH0",
-      "N",
-      "CH",
-      "AA1",
-      "N",
-      "T",
-      "IH0",
-      "D"
-    ],
-    "ga": [
-      "IH0",
-      "N",
-      "CH",
-      "AE1",
-      "N",
-      "T",
-      "IH0",
-      "D"
-    ],
-    "j": 3,
-    "len": 8,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "ENDURED",
     "rp": [
       "EH0",
@@ -1775,32 +1407,6 @@
     "j": 0,
     "len": 7,
     "gaPhone": "EH1"
-  },
-  {
-    "spelling": "ENTRANCED",
-    "rp": [
-      "IH0",
-      "N",
-      "T",
-      "R",
-      "AA1",
-      "N",
-      "S",
-      "T"
-    ],
-    "ga": [
-      "IH0",
-      "N",
-      "T",
-      "R",
-      "AE1",
-      "N",
-      "S",
-      "T"
-    ],
-    "j": 4,
-    "len": 8,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "ENTREATING",
@@ -1924,31 +1530,6 @@
     "gaPhone": "EH2"
   },
   {
-    "spelling": "EXAMPLE",
-    "rp": [
-      "IH0",
-      "G",
-      "Z",
-      "AA1",
-      "M",
-      "P",
-      "EL"
-    ],
-    "ga": [
-      "IH0",
-      "G",
-      "Z",
-      "AE1",
-      "M",
-      "P",
-      "AX",
-      "L"
-    ],
-    "j": 3,
-    "len": 8,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "EXTREMITY",
     "rp": [
       "IH0",
@@ -2005,44 +1586,6 @@
     "j": 5,
     "len": 9,
     "gaPhone": "Y"
-  },
-  {
-    "spelling": "FAST",
-    "rp": [
-      "F",
-      "AA1",
-      "S",
-      "T"
-    ],
-    "ga": [
-      "F",
-      "AE1",
-      "S",
-      "T"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "FASTER",
-    "rp": [
-      "F",
-      "AA1",
-      "S",
-      "T",
-      "AX"
-    ],
-    "ga": [
-      "F",
-      "AE1",
-      "S",
-      "T",
-      "AXR"
-    ],
-    "j": 1,
-    "len": 5,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "FEVERISHLY",
@@ -2203,114 +1746,6 @@
     "gaPhone": "EY2"
   },
   {
-    "spelling": "GASPED",
-    "rp": [
-      "G",
-      "AA1",
-      "S",
-      "P",
-      "T"
-    ],
-    "ga": [
-      "G",
-      "AE1",
-      "S",
-      "P",
-      "T"
-    ],
-    "j": 1,
-    "len": 5,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "GHASTLY",
-    "rp": [
-      "G",
-      "AA1",
-      "S",
-      "T",
-      "L",
-      "IH0"
-    ],
-    "ga": [
-      "G",
-      "AE1",
-      "S",
-      "T",
-      "L",
-      "IY0"
-    ],
-    "j": 1,
-    "len": 6,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "GIGANTIC",
-    "rp": [
-      "JH",
-      "AY0",
-      "G",
-      "AA1",
-      "N",
-      "T",
-      "IH0",
-      "K"
-    ],
-    "ga": [
-      "JH",
-      "AY0",
-      "G",
-      "AE1",
-      "N",
-      "T",
-      "IH0",
-      "K"
-    ],
-    "j": 3,
-    "len": 8,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "GLANCED",
-    "rp": [
-      "G",
-      "L",
-      "AA1",
-      "N",
-      "S",
-      "T"
-    ],
-    "ga": [
-      "G",
-      "L",
-      "AE1",
-      "N",
-      "S",
-      "T"
-    ],
-    "j": 2,
-    "len": 6,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "GLASS",
-    "rp": [
-      "G",
-      "L",
-      "AA1",
-      "S"
-    ],
-    "ga": [
-      "G",
-      "L",
-      "AE1",
-      "S"
-    ],
-    "j": 2,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "GRANDEUR",
     "rp": [
       "G",
@@ -2351,22 +1786,6 @@
     "j": 2,
     "len": 4,
     "gaPhone": "EY1"
-  },
-  {
-    "spelling": "HALF",
-    "rp": [
-      "HH",
-      "AA1",
-      "F"
-    ],
-    "ga": [
-      "HH",
-      "AE1",
-      "F"
-    ],
-    "j": 1,
-    "len": 3,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "HANGINGS",
@@ -2797,100 +2216,6 @@
     "gaPhone": "UW1"
   },
   {
-    "spelling": "LAST",
-    "rp": [
-      "L",
-      "AA1",
-      "S",
-      "T"
-    ],
-    "ga": [
-      "L",
-      "AE1",
-      "S",
-      "T"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "LASTED",
-    "rp": [
-      "L",
-      "AA1",
-      "S",
-      "T",
-      "IH0",
-      "D"
-    ],
-    "ga": [
-      "L",
-      "AE1",
-      "S",
-      "T",
-      "IH0",
-      "D"
-    ],
-    "j": 1,
-    "len": 6,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "LAUGH",
-    "rp": [
-      "L",
-      "AA1",
-      "F"
-    ],
-    "ga": [
-      "L",
-      "AE1",
-      "F"
-    ],
-    "j": 1,
-    "len": 3,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "LAUGHED",
-    "rp": [
-      "L",
-      "AA1",
-      "F",
-      "T"
-    ],
-    "ga": [
-      "L",
-      "AE1",
-      "F",
-      "T"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "LAUGHTER",
-    "rp": [
-      "L",
-      "AA1",
-      "F",
-      "T",
-      "AX"
-    ],
-    "ga": [
-      "L",
-      "AE1",
-      "F",
-      "T",
-      "AXR"
-    ],
-    "j": 1,
-    "len": 5,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "LEISURE",
     "rp": [
       "L",
@@ -2963,66 +2288,6 @@
     "gaPhone": "AE2"
   },
   {
-    "spelling": "MASK",
-    "rp": [
-      "M",
-      "AA1",
-      "S",
-      "K"
-    ],
-    "ga": [
-      "M",
-      "AE1",
-      "S",
-      "K"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "MASKED",
-    "rp": [
-      "M",
-      "AA1",
-      "S",
-      "K",
-      "T"
-    ],
-    "ga": [
-      "M",
-      "AE1",
-      "S",
-      "K",
-      "T"
-    ],
-    "j": 1,
-    "len": 5,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "MASKERS",
-    "rp": [
-      "M",
-      "AA1",
-      "S",
-      "K",
-      "AX",
-      "Z"
-    ],
-    "ga": [
-      "M",
-      "AE1",
-      "S",
-      "K",
-      "AXR",
-      "Z"
-    ],
-    "j": 1,
-    "len": 6,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "MASQUERADE",
     "rp": [
       "M",
@@ -3075,26 +2340,6 @@
     "j": 1,
     "len": 9,
     "gaPhone": "AE2"
-  },
-  {
-    "spelling": "MASTER",
-    "rp": [
-      "M",
-      "AA1",
-      "S",
-      "T",
-      "AX"
-    ],
-    "ga": [
-      "M",
-      "AE1",
-      "S",
-      "T",
-      "AXR"
-    ],
-    "j": 1,
-    "len": 5,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "ME",
@@ -4050,60 +3295,6 @@
     "gaPhone": "L"
   },
   {
-    "spelling": "PASS",
-    "rp": [
-      "P",
-      "AA1",
-      "S"
-    ],
-    "ga": [
-      "P",
-      "AE1",
-      "S"
-    ],
-    "j": 1,
-    "len": 3,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "PASSED",
-    "rp": [
-      "P",
-      "AA1",
-      "S",
-      "T"
-    ],
-    "ga": [
-      "P",
-      "AE1",
-      "S",
-      "T"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "PASSES",
-    "rp": [
-      "P",
-      "AA1",
-      "S",
-      "IH0",
-      "Z"
-    ],
-    "ga": [
-      "P",
-      "AE1",
-      "S",
-      "IH0",
-      "Z"
-    ],
-    "j": 1,
-    "len": 5,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "PASSIONATE",
     "rp": [
       "P",
@@ -4321,84 +3512,6 @@
     "j": 1,
     "len": 5,
     "gaPhone": "ER1"
-  },
-  {
-    "spelling": "PHANTASM",
-    "rp": [
-      "F",
-      "AA1",
-      "N",
-      "T",
-      "AE0",
-      "Z",
-      "AX",
-      "M"
-    ],
-    "ga": [
-      "F",
-      "AE1",
-      "N",
-      "T",
-      "AE0",
-      "Z",
-      "AX",
-      "M"
-    ],
-    "j": 1,
-    "len": 8,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "PHANTASMS",
-    "rp": [
-      "F",
-      "AA1",
-      "N",
-      "T",
-      "AE0",
-      "Z",
-      "AX",
-      "M",
-      "Z"
-    ],
-    "ga": [
-      "F",
-      "AE1",
-      "N",
-      "T",
-      "AE0",
-      "Z",
-      "AX",
-      "M",
-      "Z"
-    ],
-    "j": 1,
-    "len": 9,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "PLASTERED",
-    "rp": [
-      "P",
-      "L",
-      "AA1",
-      "S",
-      "T",
-      "AX",
-      "D"
-    ],
-    "ga": [
-      "P",
-      "L",
-      "AE1",
-      "S",
-      "T",
-      "AXR",
-      "D"
-    ],
-    "j": 2,
-    "len": 7,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "PORTRAIT",
@@ -4956,24 +4069,6 @@
     "j": 2,
     "len": 4,
     "gaPhone": "OW1"
-  },
-  {
-    "spelling": "RATHER",
-    "rp": [
-      "R",
-      "AA1",
-      "DH",
-      "AX"
-    ],
-    "ga": [
-      "R",
-      "AE1",
-      "DH",
-      "AXR"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "RATHER",
@@ -5690,74 +4785,6 @@
     "gaPhone": "AY2"
   },
   {
-    "spelling": "SURPASSED",
-    "rp": [
-      "S",
-      "AX",
-      "P",
-      "AA1",
-      "S",
-      "T"
-    ],
-    "ga": [
-      "S",
-      "AXR",
-      "P",
-      "AE1",
-      "S",
-      "T"
-    ],
-    "j": 3,
-    "len": 6,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "SURPASSINGLY",
-    "rp": [
-      "S",
-      "AX",
-      "P",
-      "AA1",
-      "S",
-      "IH0",
-      "NG",
-      "L",
-      "IH0"
-    ],
-    "ga": [
-      "S",
-      "AXR",
-      "P",
-      "AE1",
-      "S",
-      "IH0",
-      "NG",
-      "L",
-      "IY0"
-    ],
-    "j": 3,
-    "len": 9,
-    "gaPhone": "AE1"
-  },
-  {
-    "spelling": "TASK",
-    "rp": [
-      "T",
-      "AA1",
-      "S",
-      "K"
-    ],
-    "ga": [
-      "T",
-      "AE1",
-      "S",
-      "K"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "THE",
     "rp": [
       "DH",
@@ -6197,28 +5224,6 @@
     "gaPhone": "AH2"
   },
   {
-    "spelling": "UNMASK",
-    "rp": [
-      "AH0",
-      "N",
-      "M",
-      "AA1",
-      "S",
-      "K"
-    ],
-    "ga": [
-      "AH0",
-      "N",
-      "M",
-      "AE1",
-      "S",
-      "K"
-    ],
-    "j": 3,
-    "len": 6,
-    "gaPhone": "AE1"
-  },
-  {
     "spelling": "UNNECESSARILY",
     "rp": [
       "AH0",
@@ -6312,24 +5317,6 @@
     "j": 1,
     "len": 4,
     "gaPhone": "AE0"
-  },
-  {
-    "spelling": "VAST",
-    "rp": [
-      "V",
-      "AA1",
-      "S",
-      "T"
-    ],
-    "ga": [
-      "V",
-      "AE1",
-      "S",
-      "T"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "AE1"
   },
   {
     "spelling": "VEHEMENTLY",

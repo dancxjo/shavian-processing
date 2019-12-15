@@ -80,6 +80,13 @@ export function mergePair(pair: Difference) {
 			continue;
 		}
 
+        // bath
+        // TODO: Also add an entry for the /AA/ pronunciation
+		if (phoneMatch(rpPhone, /^AA/) && phoneMatch(gaPhone, /^AE/)) {
+			shaSpelling.push(gaPhone);
+			continue;
+		}
+
 		nonmerges.push({
 			spelling: pair.ga.rawSpelling,
 			rp: pair.rp._phonemes,

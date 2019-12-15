@@ -92,6 +92,38 @@
     ]
   },
   {
+    "rawSpelling": "AFTER",
+    "phonemes": [
+      "AE1",
+      "F",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "AFTERWARDS",
+    "phonemes": [
+      "AE1",
+      "F",
+      "T",
+      "AXR",
+      "W",
+      "AXR",
+      "D",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "AGHAST",
+    "phonemes": [
+      "AX",
+      "G",
+      "AE1",
+      "S",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "AIR",
     "phonemes": [
       "EA1 R"
@@ -202,6 +234,25 @@
       "AH1",
       "DH",
       "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "ANSWER",
+    "phonemes": [
+      "AE1",
+      "N",
+      "S",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "ANSWERED",
+    "phonemes": [
+      "AE1",
+      "N",
+      "S",
+      "AXR",
+      "D"
     ]
   },
   {
@@ -446,6 +497,15 @@
     ]
   },
   {
+    "rawSpelling": "ASKED",
+    "phonemes": [
+      "AE1",
+      "S",
+      "K",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "ASSEMBLY",
     "phonemes": [
       "AX",
@@ -550,6 +610,14 @@
       "G",
       "IH0",
       "N"
+    ]
+  },
+  {
+    "rawSpelling": "BATH",
+    "phonemes": [
+      "B",
+      "AE1",
+      "TH"
     ]
   },
   {
@@ -694,6 +762,20 @@
     ]
   },
   {
+    "rawSpelling": "BLASPHEMOUS",
+    "phonemes": [
+      "B",
+      "L",
+      "AE1",
+      "S",
+      "F",
+      "AX",
+      "M",
+      "AX",
+      "S"
+    ]
+  },
+  {
     "rawSpelling": "BODY",
     "phonemes": [
       "B",
@@ -831,6 +913,39 @@
     ]
   },
   {
+    "rawSpelling": "CASK",
+    "phonemes": [
+      "K",
+      "AE1",
+      "S",
+      "K"
+    ]
+  },
+  {
+    "rawSpelling": "CASKS",
+    "phonemes": [
+      "K",
+      "AE1",
+      "S",
+      "K",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "CASTELLATED",
+    "phonemes": [
+      "K",
+      "AE1",
+      "S",
+      "IH0",
+      "L",
+      "EY2",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "CAVERN",
     "phonemes": [
       "K",
@@ -933,6 +1048,16 @@
       "M",
       "AXR",
       "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "CLASP",
+    "phonemes": [
+      "K",
+      "L",
+      "AE1",
+      "S",
+      "P"
     ]
   },
   {
@@ -1327,6 +1452,17 @@
     ]
   },
   {
+    "rawSpelling": "DANCERS",
+    "phonemes": [
+      "D",
+      "AE1",
+      "N",
+      "S",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "DARED",
     "phonemes": [
       "D",
@@ -1456,6 +1592,19 @@
       "I0",
       "AX",
       "M"
+    ]
+  },
+  {
+    "rawSpelling": "DEMANDED",
+    "phonemes": [
+      "D",
+      "IH0",
+      "M",
+      "AE1",
+      "N",
+      "D",
+      "IH0",
+      "D"
     ]
   },
   {
@@ -1672,6 +1821,18 @@
     ]
   },
   {
+    "rawSpelling": "DISASTER",
+    "phonemes": [
+      "D",
+      "IH0",
+      "Z",
+      "AE1",
+      "S",
+      "T",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "DISCONCERT",
     "phonemes": [
       "D",
@@ -1775,6 +1936,16 @@
       "P",
       "AXR",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "DRAUGHT",
+    "phonemes": [
+      "D",
+      "R",
+      "AE1",
+      "F",
+      "T"
     ]
   },
   {
@@ -1935,6 +2106,19 @@
     ]
   },
   {
+    "rawSpelling": "ENCHANTED",
+    "phonemes": [
+      "IH0",
+      "N",
+      "CH",
+      "AE1",
+      "N",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "ENCOUNTERED",
     "phonemes": [
       "IH0",
@@ -1995,6 +2179,19 @@
       "M",
       "AX",
       "N",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "ENTRANCED",
+    "phonemes": [
+      "IH0",
+      "N",
+      "T",
+      "R",
+      "AE1",
+      "N",
+      "S",
       "T"
     ]
   },
@@ -2062,6 +2259,19 @@
     "phonemes": [
       "IY1",
       "V",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "EXAMPLE",
+    "phonemes": [
+      "IH0",
+      "G",
+      "Z",
+      "AE1",
+      "M",
+      "P",
       "AX",
       "L"
     ]
@@ -2172,6 +2382,25 @@
       "F",
       "AA1 R",
       "DH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "FAST",
+    "phonemes": [
+      "F",
+      "AE1",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "FASTER",
+    "phonemes": [
+      "F",
+      "AE1",
+      "S",
+      "T",
       "AXR"
     ]
   },
@@ -2661,6 +2890,16 @@
     ]
   },
   {
+    "rawSpelling": "GASPED",
+    "phonemes": [
+      "G",
+      "AE1",
+      "S",
+      "P",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "GAUDY",
     "phonemes": [
       "G",
@@ -2700,6 +2939,17 @@
     ]
   },
   {
+    "rawSpelling": "GHASTLY",
+    "phonemes": [
+      "G",
+      "AE1",
+      "S",
+      "T",
+      "L",
+      "IH0"
+    ]
+  },
+  {
     "rawSpelling": "GIDDIEST",
     "phonemes": [
       "G",
@@ -2709,6 +2959,19 @@
       "IH0",
       "S",
       "T"
+    ]
+  },
+  {
+    "rawSpelling": "GIGANTIC",
+    "phonemes": [
+      "JH",
+      "AY0",
+      "G",
+      "AE1",
+      "N",
+      "T",
+      "IH0",
+      "K"
     ]
   },
   {
@@ -2734,6 +2997,17 @@
     ]
   },
   {
+    "rawSpelling": "GLANCED",
+    "phonemes": [
+      "G",
+      "L",
+      "AE1",
+      "N",
+      "S",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "GLARE",
     "phonemes": [
       "G",
@@ -2751,6 +3025,15 @@
       "NG",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "GLASS",
+    "phonemes": [
+      "G",
+      "L",
+      "AE1",
+      "S"
     ]
   },
   {
@@ -2824,6 +3107,14 @@
       "HH",
       "EA1 R",
       "Z"
+    ]
+  },
+  {
+    "rawSpelling": "HALF",
+    "phonemes": [
+      "HH",
+      "AE1",
+      "F"
     ]
   },
   {
@@ -3548,6 +3839,26 @@
     ]
   },
   {
+    "rawSpelling": "LAST",
+    "phonemes": [
+      "L",
+      "AE1",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "LASTED",
+    "phonemes": [
+      "L",
+      "AE1",
+      "S",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "LATELY",
     "phonemes": [
       "L",
@@ -3562,6 +3873,33 @@
     "phonemes": [
       "L",
       "AE1",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "LAUGH",
+    "phonemes": [
+      "L",
+      "AE1",
+      "F"
+    ]
+  },
+  {
+    "rawSpelling": "LAUGHED",
+    "phonemes": [
+      "L",
+      "AE1",
+      "F",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "LAUGHTER",
+    "phonemes": [
+      "L",
+      "AE1",
+      "F",
       "T",
       "AXR"
     ]
@@ -3827,6 +4165,36 @@
     ]
   },
   {
+    "rawSpelling": "MASK",
+    "phonemes": [
+      "M",
+      "AE1",
+      "S",
+      "K"
+    ]
+  },
+  {
+    "rawSpelling": "MASKED",
+    "phonemes": [
+      "M",
+      "AE1",
+      "S",
+      "K",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "MASKERS",
+    "phonemes": [
+      "M",
+      "AE1",
+      "S",
+      "K",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "MASON",
     "phonemes": [
       "M",
@@ -3855,6 +4223,16 @@
       "AE1",
       "S",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "MASTER",
+    "phonemes": [
+      "M",
+      "AE1",
+      "S",
+      "T",
+      "AXR"
     ]
   },
   {
@@ -4936,6 +5314,33 @@
     ]
   },
   {
+    "rawSpelling": "PASS",
+    "phonemes": [
+      "P",
+      "AE1",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "PASSED",
+    "phonemes": [
+      "P",
+      "AE1",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "PASSES",
+    "phonemes": [
+      "P",
+      "AE1",
+      "S",
+      "IH0",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "PEDRO",
     "phonemes": [
       "P",
@@ -5224,6 +5629,33 @@
     ]
   },
   {
+    "rawSpelling": "PHANTASM",
+    "phonemes": [
+      "F",
+      "AE1",
+      "N",
+      "T",
+      "AE0",
+      "Z",
+      "AX",
+      "M"
+    ]
+  },
+  {
+    "rawSpelling": "PHANTASMS",
+    "phonemes": [
+      "F",
+      "AE1",
+      "N",
+      "T",
+      "AE0",
+      "Z",
+      "AX",
+      "M",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "PICTURE",
     "phonemes": [
       "P",
@@ -5266,6 +5698,18 @@
       "N",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "PLASTERED",
+    "phonemes": [
+      "P",
+      "L",
+      "AE1",
+      "S",
+      "T",
+      "AXR",
+      "D"
     ]
   },
   {
@@ -5567,6 +6011,15 @@
       "IH0",
       "S",
       "T"
+    ]
+  },
+  {
+    "rawSpelling": "RATHER",
+    "phonemes": [
+      "R",
+      "AE1",
+      "DH",
+      "AXR"
     ]
   },
   {
@@ -6689,6 +7142,31 @@
     ]
   },
   {
+    "rawSpelling": "SURPASSED",
+    "phonemes": [
+      "S",
+      "AXR",
+      "P",
+      "AE1",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "SURPASSINGLY",
+    "phonemes": [
+      "S",
+      "AXR",
+      "P",
+      "AE1",
+      "S",
+      "IH0",
+      "NG",
+      "L",
+      "IH0"
+    ]
+  },
+  {
     "rawSpelling": "SURPRISE",
     "phonemes": [
       "S",
@@ -6761,6 +7239,15 @@
       "T",
       "R",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "TASK",
+    "phonemes": [
+      "T",
+      "AE1",
+      "S",
+      "K"
     ]
   },
   {
@@ -7172,6 +7659,17 @@
     ]
   },
   {
+    "rawSpelling": "UNMASK",
+    "phonemes": [
+      "AH0",
+      "N",
+      "M",
+      "AE1",
+      "S",
+      "K"
+    ]
+  },
+  {
     "rawSpelling": "UNMERCIFUL",
     "phonemes": [
       "AH0",
@@ -7354,6 +7852,15 @@
       "EA1 R",
       "IH0",
       "D"
+    ]
+  },
+  {
+    "rawSpelling": "VAST",
+    "phonemes": [
+      "V",
+      "AE1",
+      "S",
+      "T"
     ]
   },
   {
