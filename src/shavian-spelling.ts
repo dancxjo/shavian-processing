@@ -1,4 +1,5 @@
 import { Phone } from './phone';
+import { phoneMatch } from './merge-words';
 
 export interface Spellable {
 	rawSpelling: string;
@@ -75,17 +76,29 @@ export function shavianize(phone: Phone): string {
 	return phone.toString();
 }
 
+function applyRules(spellable: Spellable): Spellable {
+	const newbie = Object.assign({}, spellable);
+	const shaSpelling = newbie.phonemes;
+
+    // TODO: POINTEDLY
+	if (newbie.rawSpelling.match(/[^IE]ED$/) && phoneMatch(shaSpelling[shaSpelling.length - 2].toString(), /^IH\d$/)) {
+        shaSpelling[shaSpelling.length - 2] = "AX";
+	}
+
+	// TODO: FANCIES
+	if (newbie.rawSpelling.match(/[^IE]ES$/) && phoneMatch(shaSpelling[shaSpelling.length - 2].toString(), /^IH\d$/)) {
+		shaSpelling[shaSpelling.length - 2] = "AX";
+	}
+
+	if (newbie.rawSpelling.match(/EST$/) && phoneMatch(shaSpelling[shaSpelling.length - 3].toString(), /^IH\d$/)) {
+		shaSpelling[shaSpelling.length - 3] = "AX";
+	}
+
+	return newbie;
+}
+
 export function spell(spellable: Spellable): string {
-	const phonemes = spellable.phonemes.map(shavianize);
+	const phonemes = applyRules(spellable).phonemes;
 
-	if (spellable.rawSpelling.match(/ED$/)) {
-		phonemes[phonemes.length - 2] = phonemes[phonemes.length - 2].replace(/𐑦$/, '𐑩');
-	}
-
-	if (spellable.rawSpelling.match(/EST$/)) {
-		phonemes[phonemes.length - 3] = phonemes[phonemes.length - 3].replace(/𐑦$/, '𐑩');
-	}
-
-
-	return phonemes.join('').replace('𐑘𐑵', '𐑿').replace('𐑦𐑩', '𐑾').replace('𐑦𐑼', '𐑽');
+	return phonemes.map(shavianize).join('').replace('𐑘𐑵', '𐑿').replace('𐑦𐑩', '𐑾').replace('𐑦𐑼', '𐑽');
 }

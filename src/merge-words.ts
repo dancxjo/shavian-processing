@@ -7,11 +7,11 @@ export function chooseRColoredVowel(rpVowel: string, gaVowel: string): string {
 	return rpVowel + ' R';
 }
 
-function phoneMatch(phone: string, pattern: RegExp): boolean {
+export function phoneMatch(phone: string, pattern: RegExp): boolean {
 	return pattern.test(phone.toString());
 }
 
-function isVowel(arpa: string): boolean {
+export function isVowel(arpa: string): boolean {
 	return /^[aeiou]/i.test(arpa.toString());
 }
 
@@ -30,8 +30,8 @@ export const nonmerges: {}[] = [];
 export function mergePair(pair: Difference) {
 	const rpPhonemes = pair.rp._phonemes;
 	const gaPhonemes = pair.ga._phonemes;
-	const shaSpelling: string[] = [];
-
+    const shaSpelling: string[] = [];
+    
 	for (let i = 0, j = 0; i < rpPhonemes.length || j < gaPhonemes.length; i++, j++) {
 		const rpPhone = i >= rpPhonemes.length ? '' : rpPhonemes[i];
 		const gaPhone = j >= gaPhonemes.length ? '' : gaPhonemes[j];
@@ -105,7 +105,9 @@ export function mergePair(pair: Difference) {
 			gaPhone
 		});
 		return undefined;
-	}
+    }
+    
+
 	return { rawSpelling: pair.ga.rawSpelling, phonemes: shaSpelling };
 }
 
