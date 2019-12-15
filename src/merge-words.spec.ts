@@ -21,7 +21,13 @@ describe('merge words', function () {
     [
         { spelling: 'MORE', pronunciation: ['M', 'AO1 R'] },
         { spelling: 'HEART', pronunciation: ['HH', 'AA1 R', 'T'] },
-        { spelling: 'HAPPY', pronunciation: ['HH', 'AE1', 'P', 'IH0'] }
-
+        { spelling: 'HAPPY', pronunciation: ['HH', 'AE1', 'P', 'IH0'] },
+        { spelling: 'IMMORTAL', pronunciation: ['IH0', 'M', 'AO1 R', 'T', 'AX', 'L'] },
+        { spelling: 'IRON', pronunciation: ['AY1', 'AXR', 'N'] },
+        { spelling: 'INTRUDER', pronunciation: ['IH0', 'N', 'T', 'R', 'UW1', 'D', 'AXR'] },
+        { spelling: 'INTERRUPTION', pronunciation: ["IH2", "N", "T", "AXR", "AH1", "P", "SH", "AX", "N"] },
+        { spelling: 'IDEA', pronunciation: ["AY0", "D", "I1", "AX"] },
+        { spelling: 'LONG', pronunciation: ["L", "OH1", "NG"] },
+        { spelling: 'MATERIALLY', pronunciation: ["M","AX","T","IA1","R","I0","AX","L","IH0"] }
     ].forEach(pair => it(`should resolve ${pair.spelling}`, checkPronunciation(pair.spelling, pair.pronunciation.map(phone => phone.toString()))));
 });

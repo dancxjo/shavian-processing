@@ -36,17 +36,37 @@ export const merges = differences.map((pair: {ga: CmuFormatDictionaryEntry, rp: 
             }
         }
 
+        if (i + 1 < rp.length && /^AX/.test(rpPhone.toString()) && rp[i+1] === 'R') {
+            i++;
+            sha.push(gaPhone);
+            continue;
+        }
+
+        if (rpPhone === 'EL' && j + 1 < ga.length) {
+            const nextLetter = ga[j+1];
+            if (nextLetter === 'L') {
+                j++;
+                sha.push(gaPhone, nextLetter);
+                continue;
+            }
+        }
+
         if (rpPhone === gaPhone) {
             sha.push(rpPhone);
             continue;
         }
 
-        if (/^IH/.test(rpPhone.toString()) && /^IY/.test(gaPhone.toString())) {
+        if (gaPhone && /R$/.test(gaPhone.toString())) {
+            sha.push(gaPhone);
+            continue;
+        }
+
+        if (/^I/.test(rpPhone.toString()) && /^I/.test(gaPhone.toString())) {
             sha.push(rpPhone);
             continue;
         }
 
-        if (/^OH/.test(rpPhone.toString()) && /^AA/.test(gaPhone.toString())) {
+        if (/^OH/.test(rpPhone.toString()) && /^(AA|AO)/.test(gaPhone.toString())) {
             sha.push(rpPhone);
             continue;
         }

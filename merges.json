@@ -49,6 +49,29 @@
     ]
   },
   {
+    "rawSpelling": "ACCOSTED",
+    "phonemes": [
+      "AX",
+      "K",
+      "OH1",
+      "S",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "ADMIRED",
+    "phonemes": [
+      "AX",
+      "D",
+      "M",
+      "AY1",
+      "AXR",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "ADOPTED",
     "phonemes": [
       "AX",
@@ -86,6 +109,16 @@
     ]
   },
   {
+    "rawSpelling": "ALOFT",
+    "phonemes": [
+      "AX",
+      "L",
+      "OH1",
+      "F",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "ALREADY",
     "phonemes": [
       "AO0",
@@ -94,6 +127,19 @@
       "EH1",
       "D",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "ALTOGETHER",
+    "phonemes": [
+      "AO2",
+      "L",
+      "T",
+      "AX",
+      "G",
+      "EH1",
+      "DH",
+      "AXR"
     ]
   },
   {
@@ -126,6 +172,36 @@
     "phonemes": [
       "AE1",
       "N"
+    ]
+  },
+  {
+    "rawSpelling": "ANGELS",
+    "phonemes": [
+      "EY1",
+      "N",
+      "JH",
+      "AX",
+      "L",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "ANON",
+    "phonemes": [
+      "AX",
+      "N",
+      "OH1",
+      "N"
+    ]
+  },
+  {
+    "rawSpelling": "ANOTHER",
+    "phonemes": [
+      "AX",
+      "N",
+      "AH1",
+      "DH",
+      "AXR"
     ]
   },
   {
@@ -164,6 +240,16 @@
     ]
   },
   {
+    "rawSpelling": "APERTURE",
+    "phonemes": [
+      "AE1",
+      "P",
+      "AXR",
+      "CH",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "APPEARED",
     "phonemes": [
       "AX",
@@ -192,9 +278,38 @@
     ]
   },
   {
+    "rawSpelling": "ARCHITECTURE",
+    "phonemes": [
+      "AA1 R",
+      "K",
+      "IH0",
+      "T",
+      "EH2",
+      "K",
+      "CH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "ARDOR",
+    "phonemes": [
+      "AA1 R",
+      "D",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "ARE",
     "phonemes": [
       "AA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "ARIGHT",
+    "phonemes": [
+      "AXR",
+      "AY1",
+      "T"
     ]
   },
   {
@@ -210,6 +325,52 @@
       "AA1 R",
       "M",
       "Z"
+    ]
+  },
+  {
+    "rawSpelling": "AROSE",
+    "phonemes": [
+      "AXR",
+      "OW1",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "AROUND",
+    "phonemes": [
+      "AXR",
+      "AW1",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "ARREST",
+    "phonemes": [
+      "AXR",
+      "EH1",
+      "S",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "ARRESTED",
+    "phonemes": [
+      "AXR",
+      "EH1",
+      "S",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "ARRIVED",
+    "phonemes": [
+      "AXR",
+      "AY1",
+      "V",
+      "D"
     ]
   },
   {
@@ -265,6 +426,18 @@
     ]
   },
   {
+    "rawSpelling": "AUSTRIAN",
+    "phonemes": [
+      "OH1",
+      "S",
+      "T",
+      "R",
+      "I0",
+      "AX",
+      "N"
+    ]
+  },
+  {
     "rawSpelling": "AVATAR",
     "phonemes": [
       "AE1",
@@ -275,11 +448,30 @@
     ]
   },
   {
+    "rawSpelling": "AVENGER",
+    "phonemes": [
+      "AX",
+      "V",
+      "EH1",
+      "N",
+      "JH",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "AWARE",
     "phonemes": [
       "AX",
       "W",
       "EA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "AZURE",
+    "phonemes": [
+      "AE1",
+      "ZH",
+      "AXR"
     ]
   },
   {
@@ -293,6 +485,34 @@
     ]
   },
   {
+    "rawSpelling": "BATTLEMENTS",
+    "phonemes": [
+      "B",
+      "AE1",
+      "T",
+      "AX",
+      "L",
+      "M",
+      "AX",
+      "N",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "BEAUTIFUL",
+    "phonemes": [
+      "B",
+      "Y",
+      "UW1",
+      "T",
+      "IH0",
+      "F",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "BEAUTY",
     "phonemes": [
       "B",
@@ -303,6 +523,14 @@
     ]
   },
   {
+    "rawSpelling": "BEEN",
+    "phonemes": [
+      "B",
+      "IY1",
+      "N"
+    ]
+  },
+  {
     "rawSpelling": "BEFORE",
     "phonemes": [
       "B",
@@ -318,6 +546,22 @@
       "IH0",
       "F",
       "AO1 R"
+    ]
+  },
+  {
+    "rawSpelling": "BESPRINKLED",
+    "phonemes": [
+      "B",
+      "IH0",
+      "S",
+      "P",
+      "R",
+      "IH1",
+      "NG",
+      "K",
+      "AX",
+      "L",
+      "D"
     ]
   },
   {
@@ -327,6 +571,30 @@
       "EH1",
       "S",
       "T"
+    ]
+  },
+  {
+    "rawSpelling": "BEWILDERED",
+    "phonemes": [
+      "B",
+      "IH0",
+      "W",
+      "IH1",
+      "L",
+      "D",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "BEYOND",
+    "phonemes": [
+      "B",
+      "IH0",
+      "Y",
+      "OH1",
+      "N",
+      "D"
     ]
   },
   {
@@ -363,6 +631,40 @@
     ]
   },
   {
+    "rawSpelling": "BOTTLE",
+    "phonemes": [
+      "B",
+      "OH1",
+      "T",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "BRAZIER",
+    "phonemes": [
+      "B",
+      "R",
+      "EY1",
+      "Z",
+      "I0",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "BROTHERHOOD",
+    "phonemes": [
+      "B",
+      "R",
+      "AH1",
+      "DH",
+      "AXR",
+      "HH",
+      "UH2",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "BUSIED",
     "phonemes": [
       "B",
@@ -373,10 +675,45 @@
     ]
   },
   {
+    "rawSpelling": "CANDLE",
+    "phonemes": [
+      "K",
+      "AE1",
+      "N",
+      "D",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "CANDLES",
+    "phonemes": [
+      "K",
+      "AE1",
+      "N",
+      "D",
+      "AX",
+      "L",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "CARE",
     "phonemes": [
       "K",
       "EA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "CARNIVAL",
+    "phonemes": [
+      "K",
+      "AA1 R",
+      "N",
+      "IH0",
+      "V",
+      "AX",
+      "L"
     ]
   },
   {
@@ -390,12 +727,97 @@
     ]
   },
   {
+    "rawSpelling": "CAVERN",
+    "phonemes": [
+      "K",
+      "AE1",
+      "V",
+      "AXR",
+      "N"
+    ]
+  },
+  {
+    "rawSpelling": "CENSER",
+    "phonemes": [
+      "S",
+      "EH1",
+      "N",
+      "S",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "CENTRES",
+    "phonemes": [
+      "S",
+      "EH1",
+      "N",
+      "T",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "CENTURY",
+    "phonemes": [
+      "S",
+      "EH1",
+      "N",
+      "CH",
+      "AXR",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "CHAMBER",
+    "phonemes": [
+      "CH",
+      "EY1",
+      "M",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "CHAMBERS",
+    "phonemes": [
+      "CH",
+      "EY1",
+      "M",
+      "B",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "CHORDS",
     "phonemes": [
       "K",
       "AO1 R",
       "D",
       "Z"
+    ]
+  },
+  {
+    "rawSpelling": "CLAMOURED",
+    "phonemes": [
+      "K",
+      "L",
+      "AE1",
+      "M",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "CLAMOURER",
+    "phonemes": [
+      "K",
+      "L",
+      "AE1",
+      "M",
+      "AXR",
+      "AXR"
     ]
   },
   {
@@ -446,12 +868,96 @@
     ]
   },
   {
+    "rawSpelling": "CLOSER",
+    "phonemes": [
+      "K",
+      "L",
+      "OW1",
+      "S",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "CLOSER",
+    "phonemes": [
+      "K",
+      "L",
+      "OW1",
+      "Z",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "CLOTH",
+    "phonemes": [
+      "K",
+      "L",
+      "OH1",
+      "TH"
+    ]
+  },
+  {
+    "rawSpelling": "COLOSSAL",
+    "phonemes": [
+      "K",
+      "AX",
+      "L",
+      "OH1",
+      "S",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "COLOUR",
+    "phonemes": [
+      "K",
+      "AH1",
+      "L",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "COLOURED",
+    "phonemes": [
+      "K",
+      "AH1",
+      "L",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "COLOURS",
+    "phonemes": [
+      "K",
+      "AH1",
+      "L",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "COMMA",
     "phonemes": [
       "K",
       "OH1",
       "M",
       "AX"
+    ]
+  },
+  {
+    "rawSpelling": "COMMINGLED",
+    "phonemes": [
+      "K",
+      "OW0",
+      "M",
+      "IH1",
+      "NG",
+      "G",
+      "AX",
+      "L",
+      "D"
     ]
   },
   {
@@ -479,6 +985,18 @@
       "EH1",
       "N",
       "D"
+    ]
+  },
+  {
+    "rawSpelling": "CONICAL",
+    "phonemes": [
+      "K",
+      "OH1",
+      "N",
+      "IH0",
+      "K",
+      "AX",
+      "L"
     ]
   },
   {
@@ -529,6 +1047,14 @@
     ]
   },
   {
+    "rawSpelling": "COUGH",
+    "phonemes": [
+      "K",
+      "OH1",
+      "F"
+    ]
+  },
+  {
     "rawSpelling": "COUNTRY",
     "phonemes": [
       "K",
@@ -562,6 +1088,41 @@
     ]
   },
   {
+    "rawSpelling": "COURTIERS",
+    "phonemes": [
+      "K",
+      "AO1 R",
+      "T",
+      "I0",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "COWARDICE",
+    "phonemes": [
+      "K",
+      "AW1",
+      "AXR",
+      "D",
+      "IH0",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "CRITICAL",
+    "phonemes": [
+      "K",
+      "R",
+      "IH1",
+      "T",
+      "IH0",
+      "K",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "CURE",
     "phonemes": [
       "K",
@@ -574,6 +1135,26 @@
     "phonemes": [
       "D",
       "AO1 R"
+    ]
+  },
+  {
+    "rawSpelling": "DABBLED",
+    "phonemes": [
+      "D",
+      "AE1",
+      "B",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "DAGGER",
+    "phonemes": [
+      "D",
+      "AE1",
+      "G",
+      "AXR"
     ]
   },
   {
@@ -645,6 +1226,32 @@
     ]
   },
   {
+    "rawSpelling": "DECEMBER",
+    "phonemes": [
+      "D",
+      "IH0",
+      "S",
+      "EH1",
+      "M",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "DECORATIONS",
+    "phonemes": [
+      "D",
+      "EH2",
+      "K",
+      "AXR",
+      "EY1",
+      "SH",
+      "AX",
+      "N",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "DEEPLY",
     "phonemes": [
       "D",
@@ -652,6 +1259,19 @@
       "P",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "DELIBERATE",
+    "phonemes": [
+      "D",
+      "IH0",
+      "L",
+      "IH1",
+      "B",
+      "AXR",
+      "EY2",
+      "T"
     ]
   },
   {
@@ -663,6 +1283,16 @@
       "S",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "DENSER",
+    "phonemes": [
+      "D",
+      "EH1",
+      "N",
+      "S",
+      "AXR"
     ]
   },
   {
@@ -696,10 +1326,60 @@
     "rawSpelling": "DESERT",
     "phonemes": [
       "D",
+      "EH1",
+      "Z",
+      "AXR",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "DESERT",
+    "phonemes": [
+      "D",
+      "EH1",
+      "Z",
+      "AXR",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "DESERT",
+    "phonemes": [
+      "D",
+      "EH1",
+      "Z",
+      "AXR",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "DESERT",
+    "phonemes": [
+      "D",
+      "EH1",
+      "Z",
+      "AXR",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "DESERT",
+    "phonemes": [
+      "D",
       "IH0",
       "Z",
       "ER1",
       "T"
+    ]
+  },
+  {
+    "rawSpelling": "DESIRE",
+    "phonemes": [
+      "D",
+      "IH0",
+      "Z",
+      "AY1",
+      "AXR"
     ]
   },
   {
@@ -710,6 +1390,16 @@
       "S",
       "P",
       "EA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "DEVIL",
+    "phonemes": [
+      "D",
+      "EH1",
+      "V",
+      "AX",
+      "L"
     ]
   },
   {
@@ -739,6 +1429,29 @@
     ]
   },
   {
+    "rawSpelling": "DIFFER",
+    "phonemes": [
+      "D",
+      "IH1",
+      "F",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "DISCONCERT",
+    "phonemes": [
+      "D",
+      "IH0",
+      "S",
+      "K",
+      "AX",
+      "N",
+      "S",
+      "ER1",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "DISCOURSE",
     "phonemes": [
       "D",
@@ -747,6 +1460,19 @@
       "K",
       "AO0 R",
       "S"
+    ]
+  },
+  {
+    "rawSpelling": "DISCOVERED",
+    "phonemes": [
+      "D",
+      "IH0",
+      "S",
+      "K",
+      "AH1",
+      "V",
+      "AXR",
+      "D"
     ]
   },
   {
@@ -807,6 +1533,17 @@
     ]
   },
   {
+    "rawSpelling": "DRAPERY",
+    "phonemes": [
+      "D",
+      "R",
+      "EY1",
+      "P",
+      "AXR",
+      "IH0"
+    ]
+  },
+  {
     "rawSpelling": "DREAMY",
     "phonemes": [
       "D",
@@ -834,6 +1571,16 @@
       "OH1",
       "P",
       "S"
+    ]
+  },
+  {
+    "rawSpelling": "EAGERLY",
+    "phonemes": [
+      "IY1",
+      "G",
+      "AXR",
+      "L",
+      "IH0"
     ]
   },
   {
@@ -867,6 +1614,16 @@
     ]
   },
   {
+    "rawSpelling": "EASTERN",
+    "phonemes": [
+      "IY1",
+      "S",
+      "T",
+      "AXR",
+      "N"
+    ]
+  },
+  {
     "rawSpelling": "EBONY",
     "phonemes": [
       "EH1",
@@ -874,6 +1631,42 @@
       "AX",
       "N",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "EDGAR",
+    "phonemes": [
+      "EH1",
+      "D",
+      "G",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "EGRESS",
+    "phonemes": [
+      "IY0",
+      "G",
+      "R",
+      "EH1",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "line",
+    "phonemes": [
+      "AY1",
+      "DH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "EMBER",
+    "phonemes": [
+      "EH1",
+      "M",
+      "B",
+      "AXR"
     ]
   },
   {
@@ -885,6 +1678,81 @@
       "T",
       "IH0",
       "D"
+    ]
+  },
+  {
+    "rawSpelling": "ENABLE",
+    "phonemes": [
+      "IH0",
+      "N",
+      "EY1",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "ENCOUNTERED",
+    "phonemes": [
+      "IH0",
+      "NG",
+      "K",
+      "AW1",
+      "N",
+      "T",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "ENDEAVOURED",
+    "phonemes": [
+      "IH0",
+      "N",
+      "D",
+      "EH1",
+      "V",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "ENTERED",
+    "phonemes": [
+      "EH1",
+      "N",
+      "T",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "ENTERTAINED",
+    "phonemes": [
+      "EH2",
+      "N",
+      "T",
+      "AXR",
+      "T",
+      "EY1",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "ENTERTAINMENT",
+    "phonemes": [
+      "EH2",
+      "N",
+      "T",
+      "AXR",
+      "T",
+      "EY1",
+      "N",
+      "M",
+      "AX",
+      "N",
+      "T"
     ]
   },
   {
@@ -905,6 +1773,18 @@
     ]
   },
   {
+    "rawSpelling": "ESPECIAL",
+    "phonemes": [
+      "IH0",
+      "S",
+      "P",
+      "EH1",
+      "SH",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "ESPECIALLY",
     "phonemes": [
       "IH0",
@@ -918,12 +1798,29 @@
     ]
   },
   {
+    "rawSpelling": "EVER",
+    "phonemes": [
+      "EH1",
+      "V",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "EVERY",
     "phonemes": [
       "EH1",
       "V",
       "R",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "EVIL",
+    "phonemes": [
+      "IY1",
+      "V",
+      "AX",
+      "L"
     ]
   },
   {
@@ -941,6 +1838,18 @@
     ]
   },
   {
+    "rawSpelling": "EXPIRED",
+    "phonemes": [
+      "IH0",
+      "K",
+      "S",
+      "P",
+      "AY1",
+      "AXR",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "EXPLORE",
     "phonemes": [
       "IH0",
@@ -949,6 +1858,19 @@
       "P",
       "L",
       "AO1 R"
+    ]
+  },
+  {
+    "rawSpelling": "EXTERNAL",
+    "phonemes": [
+      "IH0",
+      "K",
+      "S",
+      "T",
+      "ER1",
+      "N",
+      "AX",
+      "L"
     ]
   },
   {
@@ -1002,10 +1924,89 @@
     ]
   },
   {
+    "rawSpelling": "FARTHER",
+    "phonemes": [
+      "F",
+      "AA1 R",
+      "DH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "FATAL",
+    "phonemes": [
+      "F",
+      "EY1",
+      "T",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "FAVORITE",
+    "phonemes": [
+      "F",
+      "EY1",
+      "V",
+      "AXR",
+      "IH0",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "FEARED",
     "phonemes": [
       "F",
       "IA1 R",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "FEARFUL",
+    "phonemes": [
+      "F",
+      "IA1 R",
+      "F",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "FEATHER",
+    "phonemes": [
+      "F",
+      "EH1",
+      "DH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "FEATURES",
+    "phonemes": [
+      "F",
+      "IY1",
+      "CH",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "FEEBLE",
+    "phonemes": [
+      "F",
+      "IY1",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "FETTERED",
+    "phonemes": [
+      "F",
+      "EH1",
+      "T",
+      "AXR",
       "D"
     ]
   },
@@ -1015,6 +2016,15 @@
       "F",
       "IA1 R",
       "S"
+    ]
+  },
+  {
+    "rawSpelling": "FIERY",
+    "phonemes": [
+      "F",
+      "AY1",
+      "AXR",
+      "IH0"
     ]
   },
   {
@@ -1039,6 +2049,14 @@
     ]
   },
   {
+    "rawSpelling": "FIRE",
+    "phonemes": [
+      "F",
+      "AY1",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "FIXEDLY",
     "phonemes": [
       "F",
@@ -1052,11 +2070,43 @@
     ]
   },
   {
+    "rawSpelling": "FLICKERED",
+    "phonemes": [
+      "F",
+      "L",
+      "IH1",
+      "K",
+      "AXR",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "FLOOR",
     "phonemes": [
       "F",
       "L",
       "AO1 R"
+    ]
+  },
+  {
+    "rawSpelling": "FLUTTER",
+    "phonemes": [
+      "F",
+      "L",
+      "AH1",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "FLUTTERED",
+    "phonemes": [
+      "F",
+      "L",
+      "AH1",
+      "T",
+      "AXR",
+      "D"
     ]
   },
   {
@@ -1079,6 +2129,17 @@
     ]
   },
   {
+    "rawSpelling": "FOLLOWERS",
+    "phonemes": [
+      "F",
+      "OH1",
+      "L",
+      "OW0",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "FOLLY",
     "phonemes": [
       "F",
@@ -1092,6 +2153,13 @@
     "phonemes": [
       "F",
       "AO1 R"
+    ]
+  },
+  {
+    "rawSpelling": "FOR",
+    "phonemes": [
+      "F",
+      "AXR"
     ]
   },
   {
@@ -1112,6 +2180,28 @@
     ]
   },
   {
+    "rawSpelling": "FORCIBLE",
+    "phonemes": [
+      "F",
+      "AO1 R",
+      "S",
+      "IH0",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "FORGET",
+    "phonemes": [
+      "F",
+      "AXR",
+      "G",
+      "EH1",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "FORGET",
     "phonemes": [
       "F",
@@ -1125,6 +2215,19 @@
     "rawSpelling": "FORGIVENESS",
     "phonemes": [
       "F",
+      "AXR",
+      "G",
+      "IH1",
+      "V",
+      "N",
+      "AX",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "FORGIVENESS",
+    "phonemes": [
+      "F",
       "AX R",
       "G",
       "IH1",
@@ -1132,6 +2235,18 @@
       "N",
       "AX",
       "S"
+    ]
+  },
+  {
+    "rawSpelling": "FORGOTTEN",
+    "phonemes": [
+      "F",
+      "AXR",
+      "G",
+      "OH1",
+      "T",
+      "AX",
+      "N"
     ]
   },
   {
@@ -1164,6 +2279,15 @@
     ]
   },
   {
+    "rawSpelling": "FORMER",
+    "phonemes": [
+      "F",
+      "AO1 R",
+      "M",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "FORMING",
     "phonemes": [
       "F",
@@ -1179,6 +2303,16 @@
       "F",
       "AO1 R",
       "TH"
+    ]
+  },
+  {
+    "rawSpelling": "FORWARD",
+    "phonemes": [
+      "F",
+      "AO1 R",
+      "W",
+      "AXR",
+      "D"
     ]
   },
   {
@@ -1260,6 +2394,16 @@
     ]
   },
   {
+    "rawSpelling": "GEMMARY",
+    "phonemes": [
+      "JH",
+      "EH1",
+      "M",
+      "AXR",
+      "IH0"
+    ]
+  },
+  {
     "rawSpelling": "GENTLY",
     "phonemes": [
       "JH",
@@ -1294,6 +2438,17 @@
     ]
   },
   {
+    "rawSpelling": "GIRDLED",
+    "phonemes": [
+      "G",
+      "ER1",
+      "D",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "GLARE",
     "phonemes": [
       "G",
@@ -1302,11 +2457,29 @@
     ]
   },
   {
+    "rawSpelling": "GLITTER",
+    "phonemes": [
+      "G",
+      "L",
+      "IH1",
+      "T",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "GOD",
     "phonemes": [
       "G",
       "OH1",
       "D"
+    ]
+  },
+  {
+    "rawSpelling": "GONE",
+    "phonemes": [
+      "G",
+      "OH1",
+      "N"
     ]
   },
   {
@@ -1340,6 +2513,28 @@
       "HH",
       "AO1",
       "L"
+    ]
+  },
+  {
+    "rawSpelling": "HAMMERS",
+    "phonemes": [
+      "HH",
+      "AE1",
+      "M",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "HANDLED",
+    "phonemes": [
+      "HH",
+      "AE1",
+      "N",
+      "D",
+      "AX",
+      "L",
+      "D"
     ]
   },
   {
@@ -1444,6 +2639,40 @@
     ]
   },
   {
+    "rawSpelling": "HERNANI",
+    "phonemes": [
+      "HH",
+      "AXR",
+      "N",
+      "AA1",
+      "N",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "HIDEOUS",
+    "phonemes": [
+      "HH",
+      "IH1",
+      "D",
+      "I0",
+      "AX",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "HISTORIES",
+    "phonemes": [
+      "HH",
+      "IH1",
+      "S",
+      "T",
+      "AXR",
+      "IH0",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "HOARSELY",
     "phonemes": [
       "HH",
@@ -1451,6 +2680,14 @@
       "S",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "HONOUR",
+    "phonemes": [
+      "OH1",
+      "N",
+      "AXR"
     ]
   },
   {
@@ -1462,6 +2699,84 @@
     ]
   },
   {
+    "rawSpelling": "HOUR",
+    "phonemes": [
+      "AW1",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "HOURS",
+    "phonemes": [
+      "AW1",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "HUMBLE",
+    "phonemes": [
+      "HH",
+      "AH1",
+      "M",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "IDEA",
+    "phonemes": [
+      "AY0",
+      "D",
+      "I1",
+      "AX"
+    ]
+  },
+  {
+    "rawSpelling": "ILLIMITABLE",
+    "phonemes": [
+      "IH0",
+      "L",
+      "IH1",
+      "M",
+      "IH0",
+      "T",
+      "AX",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "IMMORTAL",
+    "phonemes": [
+      "IH0",
+      "M",
+      "AO1 R",
+      "T",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "IMPERCEPTIBLY",
+    "phonemes": [
+      "IH0",
+      "M",
+      "P",
+      "AXR",
+      "S",
+      "EH1",
+      "P",
+      "T",
+      "IH0",
+      "B",
+      "L",
+      "IH0"
+    ]
+  },
+  {
     "rawSpelling": "IMPLORE",
     "phonemes": [
       "IH0",
@@ -1469,6 +2784,20 @@
       "P",
       "L",
       "AO1 R"
+    ]
+  },
+  {
+    "rawSpelling": "IMPOSSIBLE",
+    "phonemes": [
+      "IH0",
+      "M",
+      "P",
+      "OH1",
+      "S",
+      "IH0",
+      "B",
+      "AX",
+      "L"
     ]
   },
   {
@@ -1493,6 +2822,87 @@
     ]
   },
   {
+    "rawSpelling": "INCIPIENT",
+    "phonemes": [
+      "IH0",
+      "N",
+      "S",
+      "IH1",
+      "P",
+      "I0",
+      "AX",
+      "N",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "INCREASES",
+    "phonemes": [
+      "IH1",
+      "NG",
+      "K",
+      "R",
+      "IY0",
+      "S",
+      "IH0",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "INDIVIDUAL",
+    "phonemes": [
+      "IH2",
+      "N",
+      "D",
+      "IH0",
+      "V",
+      "IH1",
+      "JH",
+      "UW0",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "INDIVIDUALS",
+    "phonemes": [
+      "IH2",
+      "N",
+      "D",
+      "IH0",
+      "V",
+      "IH1",
+      "JH",
+      "UW0",
+      "AX",
+      "L",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "INJURIES",
+    "phonemes": [
+      "IH1",
+      "N",
+      "JH",
+      "AXR",
+      "IH0",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "INSPIRED",
+    "phonemes": [
+      "IH0",
+      "N",
+      "S",
+      "P",
+      "AY1",
+      "AXR",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "INSTANTLY",
     "phonemes": [
       "IH1",
@@ -1507,12 +2917,84 @@
     ]
   },
   {
+    "rawSpelling": "INSUFFERABLY",
+    "phonemes": [
+      "IH0",
+      "N",
+      "S",
+      "AH1",
+      "F",
+      "AXR",
+      "AX",
+      "B",
+      "L",
+      "IH0"
+    ]
+  },
+  {
     "rawSpelling": "INSURE",
     "phonemes": [
       "IH0",
       "N",
       "SH",
       "UA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "INTERMINGLING",
+    "phonemes": [
+      "IH2",
+      "N",
+      "T",
+      "AXR",
+      "M",
+      "IH1",
+      "NG",
+      "G",
+      "AX",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "rawSpelling": "INTERRUPTED",
+    "phonemes": [
+      "IH2",
+      "N",
+      "T",
+      "AXR",
+      "AH1",
+      "P",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "INTERRUPTION",
+    "phonemes": [
+      "IH2",
+      "N",
+      "T",
+      "AXR",
+      "AH1",
+      "P",
+      "SH",
+      "AX",
+      "N"
+    ]
+  },
+  {
+    "rawSpelling": "INTERVAL",
+    "phonemes": [
+      "IH1",
+      "N",
+      "T",
+      "AXR",
+      "V",
+      "AX",
+      "L"
     ]
   },
   {
@@ -1530,6 +3012,63 @@
       "SH",
       "AX",
       "N"
+    ]
+  },
+  {
+    "rawSpelling": "INTRUDER",
+    "phonemes": [
+      "IH0",
+      "N",
+      "T",
+      "R",
+      "UW1",
+      "D",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "IRON",
+    "phonemes": [
+      "AY1",
+      "AXR",
+      "N"
+    ]
+  },
+  {
+    "rawSpelling": "ITALIAN",
+    "phonemes": [
+      "IH0",
+      "T",
+      "AE1",
+      "L",
+      "I0",
+      "AX",
+      "N"
+    ]
+  },
+  {
+    "rawSpelling": "ITALIANS",
+    "phonemes": [
+      "IH0",
+      "T",
+      "AE1",
+      "L",
+      "I0",
+      "AX",
+      "N",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "JINGLED",
+    "phonemes": [
+      "JH",
+      "IH1",
+      "NG",
+      "G",
+      "AX",
+      "L",
+      "D"
     ]
   },
   {
@@ -1554,6 +3093,34 @@
       "OH1",
       "K",
       "T"
+    ]
+  },
+  {
+    "rawSpelling": "LABOR",
+    "phonemes": [
+      "L",
+      "EY1",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "LABOUR",
+    "phonemes": [
+      "L",
+      "EY1",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "LABOURS",
+    "phonemes": [
+      "L",
+      "EY1",
+      "B",
+      "AXR",
+      "Z"
     ]
   },
   {
@@ -1586,6 +3153,15 @@
     ]
   },
   {
+    "rawSpelling": "LATTER",
+    "phonemes": [
+      "L",
+      "AE1",
+      "T",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "LEER",
     "phonemes": [
       "L",
@@ -1602,6 +3178,25 @@
     ]
   },
   {
+    "rawSpelling": "LETTER",
+    "phonemes": [
+      "L",
+      "EH1",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "LEVEL",
+    "phonemes": [
+      "L",
+      "EH1",
+      "V",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "LIKELINESS",
     "phonemes": [
       "L",
@@ -1612,6 +3207,26 @@
       "N",
       "AX",
       "S"
+    ]
+  },
+  {
+    "rawSpelling": "LITTLE",
+    "phonemes": [
+      "L",
+      "IH1",
+      "T",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "LOFTY",
+    "phonemes": [
+      "L",
+      "OH1",
+      "F",
+      "T",
+      "IH0"
     ]
   },
   {
@@ -1635,6 +3250,24 @@
       "N",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "LONG",
+    "phonemes": [
+      "L",
+      "OH1",
+      "NG"
+    ]
+  },
+  {
+    "rawSpelling": "LONGER",
+    "phonemes": [
+      "L",
+      "OH1",
+      "NG",
+      "G",
+      "AXR"
     ]
   },
   {
@@ -1663,11 +3296,29 @@
     ]
   },
   {
+    "rawSpelling": "LOST",
+    "phonemes": [
+      "L",
+      "OH1",
+      "S",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "LOT",
     "phonemes": [
       "L",
       "OH1",
       "T"
+    ]
+  },
+  {
+    "rawSpelling": "LOUDER",
+    "phonemes": [
+      "L",
+      "AW1",
+      "D",
+      "AXR"
     ]
   },
   {
@@ -1688,6 +3339,15 @@
       "V",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "LOVER",
+    "phonemes": [
+      "L",
+      "AH1",
+      "V",
+      "AXR"
     ]
   },
   {
@@ -1713,12 +3373,52 @@
     ]
   },
   {
+    "rawSpelling": "LUSTRE",
+    "phonemes": [
+      "L",
+      "AH1",
+      "S",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "MANNER",
+    "phonemes": [
+      "M",
+      "AE1",
+      "N",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "MANY",
     "phonemes": [
       "M",
       "EH1",
       "N",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "MARVEL",
+    "phonemes": [
+      "M",
+      "AA1 R",
+      "V",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "MARVELLED",
+    "phonemes": [
+      "M",
+      "AA1 R",
+      "V",
+      "AX",
+      "L",
+      "D"
     ]
   },
   {
@@ -1753,6 +3453,25 @@
     ]
   },
   {
+    "rawSpelling": "MATTER",
+    "phonemes": [
+      "M",
+      "AE1",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "MATTERS",
+    "phonemes": [
+      "M",
+      "AE1",
+      "T",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "MAY",
     "phonemes": [
       "M",
@@ -1764,6 +3483,25 @@
     "phonemes": [
       "M",
       "IY1"
+    ]
+  },
+  {
+    "rawSpelling": "MEASURE",
+    "phonemes": [
+      "M",
+      "EH1",
+      "ZH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "MEASURED",
+    "phonemes": [
+      "M",
+      "EH1",
+      "ZH",
+      "AXR",
+      "D"
     ]
   },
   {
@@ -1791,6 +3529,17 @@
     ]
   },
   {
+    "rawSpelling": "MEMORIES",
+    "phonemes": [
+      "M",
+      "EH1",
+      "M",
+      "AXR",
+      "IH0",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "MERE",
     "phonemes": [
       "M",
@@ -1807,12 +3556,52 @@
     ]
   },
   {
+    "rawSpelling": "MIDDLE",
+    "phonemes": [
+      "M",
+      "IH1",
+      "D",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "MIGHTY",
     "phonemes": [
       "M",
       "AY1",
       "T",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "MOCKERY",
+    "phonemes": [
+      "M",
+      "OH1",
+      "K",
+      "AXR",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "MODERN",
+    "phonemes": [
+      "M",
+      "OH1",
+      "D",
+      "AXR",
+      "N"
+    ]
+  },
+  {
+    "rawSpelling": "MOISTURE",
+    "phonemes": [
+      "M",
+      "OY1",
+      "S",
+      "CH",
+      "AXR"
     ]
   },
   {
@@ -1827,6 +3616,33 @@
       "N",
       "AX",
       "S"
+    ]
+  },
+  {
+    "rawSpelling": "MONTRESOR",
+    "phonemes": [
+      "M",
+      "OH0",
+      "N",
+      "T",
+      "R",
+      "EH1",
+      "S",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "MONTRESORS",
+    "phonemes": [
+      "M",
+      "OH0",
+      "N",
+      "T",
+      "R",
+      "EH1",
+      "S",
+      "AXR",
+      "Z"
     ]
   },
   {
@@ -1865,6 +3681,44 @@
     ]
   },
   {
+    "rawSpelling": "MORTAL",
+    "phonemes": [
+      "M",
+      "AO1 R",
+      "T",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "MORTALS",
+    "phonemes": [
+      "M",
+      "AO1 R",
+      "T",
+      "AX",
+      "L",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "MORTAR",
+    "phonemes": [
+      "M",
+      "AO1 R",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "MOSS",
+    "phonemes": [
+      "M",
+      "OH1",
+      "S"
+    ]
+  },
+  {
     "rawSpelling": "MOTLEY",
     "phonemes": [
       "M",
@@ -1884,6 +3738,29 @@
     ]
   },
   {
+    "rawSpelling": "MOVABLE",
+    "phonemes": [
+      "M",
+      "UW1",
+      "V",
+      "AX",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "MUFFLED",
+    "phonemes": [
+      "M",
+      "AH1",
+      "F",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "MULTIFORM",
     "phonemes": [
       "M",
@@ -1894,6 +3771,91 @@
       "F",
       "AO2 R",
       "M"
+    ]
+  },
+  {
+    "rawSpelling": "MUMMER",
+    "phonemes": [
+      "M",
+      "AH1",
+      "M",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "MURMUR",
+    "phonemes": [
+      "M",
+      "ER1",
+      "M",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "MURMURED",
+    "phonemes": [
+      "M",
+      "ER1",
+      "M",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "MUSICAL",
+    "phonemes": [
+      "M",
+      "Y",
+      "UW1",
+      "Z",
+      "IH0",
+      "K",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "MUSICALS",
+    "phonemes": [
+      "M",
+      "Y",
+      "UW1",
+      "Z",
+      "IH0",
+      "K",
+      "AX",
+      "L",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "MUTTERED",
+    "phonemes": [
+      "M",
+      "AH1",
+      "T",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "MYSTERY",
+    "phonemes": [
+      "M",
+      "IH1",
+      "S",
+      "T",
+      "AXR",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "NATURE",
+    "phonemes": [
+      "N",
+      "EY1",
+      "CH",
+      "AXR"
     ]
   },
   {
@@ -1913,6 +3875,15 @@
     ]
   },
   {
+    "rawSpelling": "NEITHER",
+    "phonemes": [
+      "N",
+      "AY1",
+      "DH",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "NEPENTHE",
     "phonemes": [
       "N",
@@ -1925,6 +3896,29 @@
     ]
   },
   {
+    "rawSpelling": "NEVER",
+    "phonemes": [
+      "N",
+      "EH1",
+      "V",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "NEVERTHELESS",
+    "phonemes": [
+      "N",
+      "EH2",
+      "V",
+      "AXR",
+      "DH",
+      "AX",
+      "L",
+      "EH1",
+      "S"
+    ]
+  },
+  {
     "rawSpelling": "NIGHTLY",
     "phonemes": [
       "N",
@@ -1932,6 +3926,25 @@
       "T",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "NITRE",
+    "phonemes": [
+      "N",
+      "AY1",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "NOBLE",
+    "phonemes": [
+      "N",
+      "OW1",
+      "B",
+      "AX",
+      "L"
     ]
   },
   {
@@ -1968,9 +3981,98 @@
     ]
   },
   {
+    "rawSpelling": "NOVEL",
+    "phonemes": [
+      "N",
+      "OH1",
+      "V",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "NUMBER",
+    "phonemes": [
+      "N",
+      "AH1",
+      "M",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "NUMBER",
+    "phonemes": [
+      "N",
+      "AH1",
+      "M",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "NUMBER",
+    "phonemes": [
+      "N",
+      "AH1",
+      "M",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "NUMBER",
+    "phonemes": [
+      "N",
+      "AH1",
+      "M",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "NUMBER",
+    "phonemes": [
+      "N",
+      "AH1",
+      "M",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "O'ER",
     "phonemes": [
       "AO1 R"
+    ]
+  },
+  {
+    "rawSpelling": "OBEDIENT",
+    "phonemes": [
+      "OW0",
+      "B",
+      "IY1",
+      "D",
+      "I0",
+      "AX",
+      "N",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "OFF",
+    "phonemes": [
+      "OH1",
+      "F"
+    ]
+  },
+  {
+    "rawSpelling": "OFFERING",
+    "phonemes": [
+      "OH1",
+      "F",
+      "AXR",
+      "IH0",
+      "NG"
     ]
   },
   {
@@ -1982,6 +4084,13 @@
       "N",
       "AX",
       "S"
+    ]
+  },
+  {
+    "rawSpelling": "ON",
+    "phonemes": [
+      "OH1",
+      "N"
     ]
   },
   {
@@ -2011,6 +4120,12 @@
     ]
   },
   {
+    "rawSpelling": "OR",
+    "phonemes": [
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "ORBS",
     "phonemes": [
       "AO1 R",
@@ -2028,6 +4143,15 @@
       "T",
       "R",
       "AX"
+    ]
+  },
+  {
+    "rawSpelling": "ORDERS",
+    "phonemes": [
+      "AO1 R",
+      "D",
+      "AXR",
+      "Z"
     ]
   },
   {
@@ -2058,6 +4182,33 @@
     ]
   },
   {
+    "rawSpelling": "OTHER",
+    "phonemes": [
+      "AH1",
+      "DH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "OUR",
+    "phonemes": [
+      "AW1",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "OURSELVES",
+    "phonemes": [
+      "AW0",
+      "AXR",
+      "S",
+      "EH1",
+      "L",
+      "V",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "OUTPOUR",
     "phonemes": [
       "AW0",
@@ -2076,6 +4227,78 @@
     ]
   },
   {
+    "rawSpelling": "OVAL",
+    "phonemes": [
+      "OW1",
+      "V",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "OVER",
+    "phonemes": [
+      "OW1",
+      "V",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "OVERHEAD",
+    "phonemes": [
+      "OW1",
+      "V",
+      "AXR",
+      "HH",
+      "EH2",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "OVERHEAD",
+    "phonemes": [
+      "OW1",
+      "V",
+      "AXR",
+      "HH",
+      "EH2",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "OVERHEAD",
+    "phonemes": [
+      "OW1",
+      "V",
+      "AXR",
+      "HH",
+      "EH2",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "OVERHEAD",
+    "phonemes": [
+      "OW1",
+      "V",
+      "AXR",
+      "HH",
+      "EH2",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "OVERHEAD",
+    "phonemes": [
+      "OW2",
+      "V",
+      "AXR",
+      "HH",
+      "EH1",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "PADLOCK",
     "phonemes": [
       "P",
@@ -2084,6 +4307,16 @@
       "L",
       "OH0",
       "K"
+    ]
+  },
+  {
+    "rawSpelling": "PAINTER",
+    "phonemes": [
+      "P",
+      "EY1",
+      "N",
+      "T",
+      "AXR"
     ]
   },
   {
@@ -2144,6 +4377,178 @@
     ]
   },
   {
+    "rawSpelling": "PERCEIVE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "S",
+      "IY1",
+      "V"
+    ]
+  },
+  {
+    "rawSpelling": "PERCEIVED",
+    "phonemes": [
+      "P",
+      "AXR",
+      "S",
+      "IY1",
+      "V",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "PERCENT",
+    "phonemes": [
+      "P",
+      "AXR",
+      "S",
+      "EH1",
+      "N",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "PERCENTAGE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "S",
+      "EH1",
+      "N",
+      "T",
+      "IH0",
+      "JH"
+    ]
+  },
+  {
+    "rawSpelling": "PERCENTAGES",
+    "phonemes": [
+      "P",
+      "AXR",
+      "S",
+      "EH1",
+      "N",
+      "T",
+      "IH0",
+      "JH",
+      "IH0",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "PERCENTILE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "S",
+      "EH1",
+      "N",
+      "T",
+      "AY2",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "PERCENTILES",
+    "phonemes": [
+      "P",
+      "AXR",
+      "S",
+      "EH1",
+      "N",
+      "T",
+      "AY2",
+      "L",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "PERCENTS",
+    "phonemes": [
+      "P",
+      "AXR",
+      "S",
+      "EH1",
+      "N",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "PERCEPTION",
+    "phonemes": [
+      "P",
+      "AXR",
+      "S",
+      "EH1",
+      "P",
+      "SH",
+      "AX",
+      "N"
+    ]
+  },
+  {
+    "rawSpelling": "PERFORCE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "F",
+      "AO1 R",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "PERFORCE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "F",
+      "AO1 R",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "PERFORCE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "F",
+      "AO1 R",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "PERFORCE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "F",
+      "AO1 R",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "PERFORCE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "F",
+      "AO0 R",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "PERFORCE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "F",
+      "AO0 R",
+      "S"
+    ]
+  },
+  {
     "rawSpelling": "PERFORCE",
     "phonemes": [
       "P",
@@ -2154,6 +4559,60 @@
     ]
   },
   {
+    "rawSpelling": "PERFORMANCE",
+    "phonemes": [
+      "P",
+      "AXR",
+      "F",
+      "AO1 R",
+      "M",
+      "AX",
+      "N",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "PERHAPS",
+    "phonemes": [
+      "P",
+      "AXR",
+      "HH",
+      "AE1",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "PERMIT",
+    "phonemes": [
+      "P",
+      "AXR",
+      "M",
+      "IH1",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "PERMIT",
+    "phonemes": [
+      "P",
+      "AXR",
+      "M",
+      "IH0",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "PERMIT",
+    "phonemes": [
+      "P",
+      "AXR",
+      "M",
+      "IH0",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "PERMIT",
     "phonemes": [
       "P",
@@ -2161,6 +4620,50 @@
       "M",
       "IH0",
       "T"
+    ]
+  },
+  {
+    "rawSpelling": "PERUSAL",
+    "phonemes": [
+      "P",
+      "AXR",
+      "UW1",
+      "Z",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "PERVADED",
+    "phonemes": [
+      "P",
+      "AXR",
+      "V",
+      "EY1",
+      "D",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "PICTURE",
+    "phonemes": [
+      "P",
+      "IH1",
+      "K",
+      "CH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "PICTURES",
+    "phonemes": [
+      "P",
+      "IH1",
+      "K",
+      "CH",
+      "AXR",
+      "Z"
     ]
   },
   {
@@ -2185,6 +4688,41 @@
       "N",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "PLEASURE",
+    "phonemes": [
+      "P",
+      "L",
+      "EH1",
+      "ZH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "PLUTONIAN",
+    "phonemes": [
+      "P",
+      "L",
+      "UW0",
+      "T",
+      "OW1",
+      "N",
+      "I0",
+      "AX",
+      "N"
+    ]
+  },
+  {
+    "rawSpelling": "PONDERED",
+    "phonemes": [
+      "P",
+      "OH1",
+      "N",
+      "D",
+      "AXR",
+      "D"
     ]
   },
   {
@@ -2223,6 +4761,28 @@
     ]
   },
   {
+    "rawSpelling": "POSITIVELY",
+    "phonemes": [
+      "P",
+      "OH1",
+      "Z",
+      "IH0",
+      "T",
+      "IH2",
+      "V",
+      "L",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "POWER",
+    "phonemes": [
+      "P",
+      "AW1",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "PRECAUTIONS",
     "phonemes": [
       "P",
@@ -2257,6 +4817,16 @@
       "R",
       "AY1",
       "S"
+    ]
+  },
+  {
+    "rawSpelling": "PROPER",
+    "phonemes": [
+      "P",
+      "R",
+      "OH1",
+      "P",
+      "AXR"
     ]
   },
   {
@@ -2298,12 +4868,47 @@
     ]
   },
   {
+    "rawSpelling": "PURPLE",
+    "phonemes": [
+      "P",
+      "ER1",
+      "P",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "PURPORTED",
+    "phonemes": [
+      "P",
+      "AXR",
+      "P",
+      "AO1 R",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "QUAFF",
     "phonemes": [
       "K",
       "W",
       "OH1",
       "F"
+    ]
+  },
+  {
+    "rawSpelling": "QUANTITY",
+    "phonemes": [
+      "K",
+      "W",
+      "OH1",
+      "N",
+      "T",
+      "IH0",
+      "T",
+      "IH0"
     ]
   },
   {
@@ -2322,6 +4927,18 @@
       "L",
       "IH0",
       "F"
+    ]
+  },
+  {
+    "rawSpelling": "RADIANT",
+    "phonemes": [
+      "R",
+      "EY1",
+      "D",
+      "I0",
+      "AX",
+      "N",
+      "T"
     ]
   },
   {
@@ -2345,6 +4962,16 @@
       "D",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "RAPIER",
+    "phonemes": [
+      "R",
+      "EY1",
+      "P",
+      "IH0",
+      "AXR"
     ]
   },
   {
@@ -2375,6 +5002,30 @@
       "L",
       "IH0",
       "NG"
+    ]
+  },
+  {
+    "rawSpelling": "RECOVERED",
+    "phonemes": [
+      "R",
+      "IH0",
+      "K",
+      "AH1",
+      "V",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "REDRESSER",
+    "phonemes": [
+      "R",
+      "IH0",
+      "D",
+      "R",
+      "EH1",
+      "S",
+      "AXR"
     ]
   },
   {
@@ -2441,6 +5092,51 @@
     ]
   },
   {
+    "rawSpelling": "REMEMBER",
+    "phonemes": [
+      "R",
+      "IH0",
+      "M",
+      "EH1",
+      "M",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "REMEMBER",
+    "phonemes": [
+      "R",
+      "IH0",
+      "M",
+      "EH1",
+      "M",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "RENDER",
+    "phonemes": [
+      "R",
+      "EH1",
+      "N",
+      "D",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "RENDERED",
+    "phonemes": [
+      "R",
+      "EH1",
+      "N",
+      "D",
+      "AXR",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "REPLACED",
     "phonemes": [
       "R",
@@ -2463,6 +5159,32 @@
     ]
   },
   {
+    "rawSpelling": "RESEMBLE",
+    "phonemes": [
+      "R",
+      "IH0",
+      "Z",
+      "EH1",
+      "M",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "RESEMBLE",
+    "phonemes": [
+      "R",
+      "IH0",
+      "Z",
+      "EH1",
+      "M",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "RESOLVED",
     "phonemes": [
       "R",
@@ -2471,6 +5193,44 @@
       "OH1",
       "L",
       "V",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "RESPONSIBLE",
+    "phonemes": [
+      "R",
+      "IH0",
+      "S",
+      "P",
+      "OH1",
+      "N",
+      "S",
+      "IH0",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "RETIRED",
+    "phonemes": [
+      "R",
+      "IH0",
+      "T",
+      "AY1",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "RETIRED",
+    "phonemes": [
+      "R",
+      "IH0",
+      "T",
+      "AY1",
+      "AXR",
       "D"
     ]
   },
@@ -2488,6 +5248,39 @@
     ]
   },
   {
+    "rawSpelling": "REVEL",
+    "phonemes": [
+      "R",
+      "EH1",
+      "V",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "REVELLED",
+    "phonemes": [
+      "R",
+      "EH1",
+      "V",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "REVELLERS",
+    "phonemes": [
+      "R",
+      "EH1",
+      "V",
+      "AX",
+      "L",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "REVENGE",
     "phonemes": [
       "R",
@@ -2499,6 +5292,39 @@
     ]
   },
   {
+    "rawSpelling": "REVERENT",
+    "phonemes": [
+      "R",
+      "EH1",
+      "V",
+      "AXR",
+      "AX",
+      "N",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "REVERIES",
+    "phonemes": [
+      "R",
+      "EH1",
+      "V",
+      "AXR",
+      "IH0",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "REVERY",
+    "phonemes": [
+      "R",
+      "EH1",
+      "V",
+      "AXR",
+      "IH0"
+    ]
+  },
+  {
     "rawSpelling": "RICHLY",
     "phonemes": [
       "R",
@@ -2506,6 +5332,26 @@
       "CH",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "RIVAL",
+    "phonemes": [
+      "R",
+      "AY1",
+      "V",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "RIVER'S",
+    "phonemes": [
+      "R",
+      "IH1",
+      "V",
+      "AXR",
+      "Z"
     ]
   },
   {
@@ -2528,6 +5374,47 @@
     "phonemes": [
       "R",
       "AW1"
+    ]
+  },
+  {
+    "rawSpelling": "RUDDIER",
+    "phonemes": [
+      "R",
+      "AH1",
+      "D",
+      "IH0",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "RUMOUR",
+    "phonemes": [
+      "R",
+      "UW1",
+      "M",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "RUSTLING",
+    "phonemes": [
+      "R",
+      "AH1",
+      "S",
+      "AX",
+      "L",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "rawSpelling": "SABLE",
+    "phonemes": [
+      "S",
+      "EY1",
+      "B",
+      "AX",
+      "L"
     ]
   },
   {
@@ -2573,6 +5460,17 @@
     ]
   },
   {
+    "rawSpelling": "SCATTERED",
+    "phonemes": [
+      "S",
+      "K",
+      "AE1",
+      "T",
+      "AXR",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "SCONCES",
     "phonemes": [
       "S",
@@ -2598,6 +5496,19 @@
     ]
   },
   {
+    "rawSpelling": "SCULPTURED",
+    "phonemes": [
+      "S",
+      "K",
+      "AH1",
+      "L",
+      "P",
+      "CH",
+      "AXR",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "SECURE",
     "phonemes": [
       "S",
@@ -2605,6 +5516,48 @@
       "K",
       "Y",
       "UA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "SEIZURE",
+    "phonemes": [
+      "S",
+      "IY1",
+      "ZH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "SEPARATE",
+    "phonemes": [
+      "S",
+      "EH1",
+      "P",
+      "AXR",
+      "EY2",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "SETTLED",
+    "phonemes": [
+      "S",
+      "EH1",
+      "T",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "SEVERAL",
+    "phonemes": [
+      "S",
+      "EH1",
+      "V",
+      "AXR",
+      "AX",
+      "L"
     ]
   },
   {
@@ -2648,12 +5601,62 @@
     ]
   },
   {
+    "rawSpelling": "SHOULDERS",
+    "phonemes": [
+      "SH",
+      "OW1",
+      "L",
+      "D",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "SHUDDER",
+    "phonemes": [
+      "SH",
+      "AH1",
+      "D",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "SHUTTER",
+    "phonemes": [
+      "SH",
+      "AH1",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "SHUTTERS",
+    "phonemes": [
+      "SH",
+      "AH1",
+      "T",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "SILLY",
     "phonemes": [
       "S",
       "IH1",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "SIMILAR",
+    "phonemes": [
+      "S",
+      "IH1",
+      "M",
+      "IH0",
+      "L",
+      "AXR"
     ]
   },
   {
@@ -2667,6 +5670,17 @@
     ]
   },
   {
+    "rawSpelling": "SINGLE",
+    "phonemes": [
+      "S",
+      "IH1",
+      "NG",
+      "G",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "SIXTY",
     "phonemes": [
       "S",
@@ -2675,6 +5689,51 @@
       "S",
       "T",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "SKILLFUL",
+    "phonemes": [
+      "S",
+      "K",
+      "IH1",
+      "L",
+      "F",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "SLUMBER",
+    "phonemes": [
+      "S",
+      "L",
+      "AH1",
+      "M",
+      "B",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "SLUMBERING",
+    "phonemes": [
+      "S",
+      "L",
+      "AH1",
+      "M",
+      "B",
+      "AXR",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "rawSpelling": "SOBER",
+    "phonemes": [
+      "S",
+      "OW1",
+      "B",
+      "AXR"
     ]
   },
   {
@@ -2720,6 +5779,50 @@
     ]
   },
   {
+    "rawSpelling": "SONGS",
+    "phonemes": [
+      "S",
+      "OH1",
+      "NG",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "SPARKLED",
+    "phonemes": [
+      "S",
+      "P",
+      "AA1 R",
+      "K",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "SPEAKER",
+    "phonemes": [
+      "S",
+      "P",
+      "IY1",
+      "K",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "SPECTRAL",
+    "phonemes": [
+      "S",
+      "P",
+      "EH1",
+      "K",
+      "T",
+      "R",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "SQUARE",
     "phonemes": [
       "S",
@@ -2729,12 +5832,60 @@
     ]
   },
   {
+    "rawSpelling": "STAPLES",
+    "phonemes": [
+      "S",
+      "T",
+      "EY1",
+      "P",
+      "AX",
+      "L",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "START",
     "phonemes": [
       "S",
       "T",
       "AA1 R",
       "T"
+    ]
+  },
+  {
+    "rawSpelling": "STARTLE",
+    "phonemes": [
+      "S",
+      "T",
+      "AA1 R",
+      "T",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "STARTLED",
+    "phonemes": [
+      "S",
+      "T",
+      "AA1 R",
+      "T",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "STARTLING",
+    "phonemes": [
+      "S",
+      "T",
+      "AA1 R",
+      "T",
+      "AX",
+      "L",
+      "IH0",
+      "NG"
     ]
   },
   {
@@ -2776,6 +5927,65 @@
     ]
   },
   {
+    "rawSpelling": "STRANGER",
+    "phonemes": [
+      "S",
+      "T",
+      "R",
+      "EY1",
+      "N",
+      "JH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "STRONG",
+    "phonemes": [
+      "S",
+      "T",
+      "R",
+      "OH1",
+      "NG"
+    ]
+  },
+  {
+    "rawSpelling": "STRONGER",
+    "phonemes": [
+      "S",
+      "T",
+      "R",
+      "OH1",
+      "NG",
+      "G",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "STRUCTURE",
+    "phonemes": [
+      "S",
+      "T",
+      "R",
+      "AH1",
+      "K",
+      "CH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "STRUGGLED",
+    "phonemes": [
+      "S",
+      "T",
+      "R",
+      "AH1",
+      "G",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "SUDDENLY",
     "phonemes": [
       "S",
@@ -2785,6 +5995,16 @@
       "N",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "SUFFERED",
+    "phonemes": [
+      "S",
+      "AH1",
+      "F",
+      "AXR",
+      "D"
     ]
   },
   {
@@ -2839,6 +6059,42 @@
     ]
   },
   {
+    "rawSpelling": "SURMOUNTED",
+    "phonemes": [
+      "S",
+      "AXR",
+      "M",
+      "AW1",
+      "N",
+      "T",
+      "IH0",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "SURPRISE",
+    "phonemes": [
+      "S",
+      "AXR",
+      "P",
+      "R",
+      "AY1",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "SYLLABLE",
+    "phonemes": [
+      "S",
+      "IH1",
+      "L",
+      "AX",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "SYMPATHY",
     "phonemes": [
       "S",
@@ -2848,6 +6104,19 @@
       "AX",
       "TH",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "TANGIBLE",
+    "phonemes": [
+      "T",
+      "AE1",
+      "N",
+      "JH",
+      "IH0",
+      "B",
+      "AX",
+      "L"
     ]
   },
   {
@@ -2878,6 +6147,16 @@
     ]
   },
   {
+    "rawSpelling": "TATTERED",
+    "phonemes": [
+      "T",
+      "AE1",
+      "T",
+      "AXR",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "TECHNICALLY",
     "phonemes": [
       "T",
@@ -2888,6 +6167,31 @@
       "K",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "TEMPTER",
+    "phonemes": [
+      "T",
+      "EH1",
+      "M",
+      "P",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "TERMINATION",
+    "phonemes": [
+      "T",
+      "AXR",
+      "M",
+      "IH0",
+      "N",
+      "EY1",
+      "SH",
+      "AX",
+      "N"
     ]
   },
   {
@@ -2914,10 +6218,23 @@
     ]
   },
   {
-    "rawSpelling": "TIER",
+    "rawSpelling": "THOUGHTFUL",
     "phonemes": [
+      "TH",
+      "AO1",
       "T",
-      "IA1 R"
+      "F",
+      "AX",
+      "L"
+    ]
+  },
+  {
+    "rawSpelling": "THRONG",
+    "phonemes": [
+      "TH",
+      "R",
+      "OH1",
+      "NG"
     ]
   },
   {
@@ -2939,6 +6256,44 @@
     "phonemes": [
       "T",
       "IA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "TIER",
+    "phonemes": [
+      "T",
+      "IA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "TIER",
+    "phonemes": [
+      "T",
+      "AY1",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "TINKLED",
+    "phonemes": [
+      "T",
+      "IH1",
+      "NG",
+      "K",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "TOGETHER",
+    "phonemes": [
+      "T",
+      "AX",
+      "G",
+      "EH1",
+      "DH",
+      "AXR"
     ]
   },
   {
@@ -2950,6 +6305,15 @@
     ]
   },
   {
+    "rawSpelling": "TOSSED",
+    "phonemes": [
+      "T",
+      "OH1",
+      "S",
+      "T"
+    ]
+  },
+  {
     "rawSpelling": "TOWARDS",
     "phonemes": [
       "T",
@@ -2958,6 +6322,30 @@
       "AO1 R",
       "D",
       "Z"
+    ]
+  },
+  {
+    "rawSpelling": "TREMBLED",
+    "phonemes": [
+      "T",
+      "R",
+      "EH1",
+      "M",
+      "B",
+      "AX",
+      "L",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "TRICKLE",
+    "phonemes": [
+      "T",
+      "R",
+      "IH1",
+      "K",
+      "AX",
+      "L"
     ]
   },
   {
@@ -2992,6 +6380,16 @@
       "F",
       "IH0",
       "Z"
+    ]
+  },
+  {
+    "rawSpelling": "TROWEL",
+    "phonemes": [
+      "T",
+      "R",
+      "AW1",
+      "AX",
+      "L"
     ]
   },
   {
@@ -3034,6 +6432,45 @@
     ]
   },
   {
+    "rawSpelling": "UNCOVERED",
+    "phonemes": [
+      "AH0",
+      "NG",
+      "K",
+      "AH1",
+      "V",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "UNDERSTAND",
+    "phonemes": [
+      "AH2",
+      "N",
+      "D",
+      "AXR",
+      "S",
+      "T",
+      "AE1",
+      "N",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "UNDERSTOOD",
+    "phonemes": [
+      "AH2",
+      "N",
+      "D",
+      "AXR",
+      "S",
+      "T",
+      "UH1",
+      "D"
+    ]
+  },
+  {
     "rawSpelling": "UNEASY",
     "phonemes": [
       "AH0",
@@ -3064,6 +6501,20 @@
       "AE1",
       "P",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "UNMERCIFUL",
+    "phonemes": [
+      "AH0",
+      "N",
+      "M",
+      "ER1",
+      "S",
+      "IH0",
+      "F",
+      "AX",
+      "L"
     ]
   },
   {
@@ -3133,6 +6584,20 @@
     ]
   },
   {
+    "rawSpelling": "UNUTTERABLE",
+    "phonemes": [
+      "AH0",
+      "N",
+      "AH1",
+      "T",
+      "AXR",
+      "AX",
+      "B",
+      "AX",
+      "L"
+    ]
+  },
+  {
     "rawSpelling": "UPON",
     "phonemes": [
       "AX",
@@ -3155,11 +6620,138 @@
     ]
   },
   {
+    "rawSpelling": "UPWARDS",
+    "phonemes": [
+      "AH1",
+      "P",
+      "W",
+      "AXR",
+      "D",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "UTTERANCE",
+    "phonemes": [
+      "AH1",
+      "T",
+      "AXR",
+      "AX",
+      "N",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "UTTERED",
+    "phonemes": [
+      "AH1",
+      "T",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "UTTERLY",
+    "phonemes": [
+      "AH1",
+      "T",
+      "AXR",
+      "L",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "UTTERS",
+    "phonemes": [
+      "AH1",
+      "T",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
     "rawSpelling": "VAINLY",
     "phonemes": [
       "V",
       "EY1",
       "N",
+      "L",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "VAULT",
+    "phonemes": [
+      "V",
+      "OH1",
+      "L",
+      "T"
+    ]
+  },
+  {
+    "rawSpelling": "VAULTS",
+    "phonemes": [
+      "V",
+      "OH1",
+      "L",
+      "T",
+      "S"
+    ]
+  },
+  {
+    "rawSpelling": "VEHEMENTLY",
+    "phonemes": [
+      "V",
+      "I1",
+      "AX",
+      "M",
+      "AX",
+      "N",
+      "T",
+      "L",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "VENTURE",
+    "phonemes": [
+      "V",
+      "EH1",
+      "N",
+      "CH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "VENTURED",
+    "phonemes": [
+      "V",
+      "EH1",
+      "N",
+      "CH",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "VESTURE",
+    "phonemes": [
+      "V",
+      "EH1",
+      "S",
+      "CH",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "VIGOROUSLY",
+    "phonemes": [
+      "V",
+      "IH1",
+      "G",
+      "AXR",
+      "AX",
+      "S",
       "L",
       "IH0"
     ]
@@ -3191,6 +6783,28 @@
     ]
   },
   {
+    "rawSpelling": "VISITER",
+    "phonemes": [
+      "V",
+      "IH1",
+      "Z",
+      "IH0",
+      "T",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "VISITOR",
+    "phonemes": [
+      "V",
+      "IH1",
+      "Z",
+      "IH0",
+      "T",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "VIVIDLY",
     "phonemes": [
       "V",
@@ -3211,6 +6825,53 @@
       "Y",
       "UW0",
       "M"
+    ]
+  },
+  {
+    "rawSpelling": "W",
+    "phonemes": [
+      "D",
+      "AH1",
+      "B",
+      "AX",
+      "L",
+      "Y",
+      "UW2"
+    ]
+  },
+  {
+    "rawSpelling": "WALTZERS",
+    "phonemes": [
+      "W",
+      "OH1",
+      "L",
+      "T",
+      "S",
+      "AXR",
+      "Z"
+    ]
+  },
+  {
+    "rawSpelling": "WANDERING",
+    "phonemes": [
+      "W",
+      "OH1",
+      "N",
+      "D",
+      "AXR",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "rawSpelling": "WANTON",
+    "phonemes": [
+      "W",
+      "OH1",
+      "N",
+      "T",
+      "AX",
+      "N"
     ]
   },
   {
@@ -3249,6 +6910,13 @@
     "rawSpelling": "WERE",
     "phonemes": [
       "W",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "WERE",
+    "phonemes": [
+      "W",
       "ER1"
     ]
   },
@@ -3263,7 +6931,50 @@
     "rawSpelling": "WERE",
     "phonemes": [
       "W",
+      "AXR"
+    ]
+  },
+  {
+    "rawSpelling": "WERE",
+    "phonemes": [
+      "W",
       "EA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "WESTERN",
+    "phonemes": [
+      "W",
+      "EH1",
+      "S",
+      "T",
+      "AXR",
+      "N"
+    ]
+  },
+  {
+    "rawSpelling": "WESTWARDLY",
+    "phonemes": [
+      "W",
+      "EH1",
+      "S",
+      "T",
+      "W",
+      "AXR",
+      "D",
+      "L",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "WHENEVER",
+    "phonemes": [
+      "W",
+      "EH0",
+      "N",
+      "EH1",
+      "V",
+      "AXR"
     ]
   },
   {
@@ -3271,6 +6982,15 @@
     "phonemes": [
       "W",
       "EA1 R"
+    ]
+  },
+  {
+    "rawSpelling": "WHETHER",
+    "phonemes": [
+      "W",
+      "EH1",
+      "DH",
+      "AXR"
     ]
   },
   {
@@ -3286,11 +7006,88 @@
     ]
   },
   {
+    "rawSpelling": "WHISPERED",
+    "phonemes": [
+      "W",
+      "IH1",
+      "S",
+      "P",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "WHISPERING",
+    "phonemes": [
+      "W",
+      "IH1",
+      "S",
+      "P",
+      "AXR",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "rawSpelling": "WHISPERINGLY",
+    "phonemes": [
+      "W",
+      "IH1",
+      "S",
+      "P",
+      "AXR",
+      "IH0",
+      "NG",
+      "L",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "WHITHER",
+    "phonemes": [
+      "W",
+      "IH1",
+      "DH",
+      "AXR"
+    ]
+  },
+  {
     "rawSpelling": "WILL",
     "phonemes": [
       "W",
       "IH1",
       "L"
+    ]
+  },
+  {
+    "rawSpelling": "WITHERED",
+    "phonemes": [
+      "W",
+      "IH1",
+      "DH",
+      "AXR",
+      "D"
+    ]
+  },
+  {
+    "rawSpelling": "WONDERING",
+    "phonemes": [
+      "W",
+      "AH1",
+      "N",
+      "D",
+      "AXR",
+      "IH0",
+      "NG"
+    ]
+  },
+  {
+    "rawSpelling": "WONT",
+    "phonemes": [
+      "W",
+      "OH1",
+      "N",
+      "T"
     ]
   },
   {
@@ -3306,6 +7103,14 @@
       "W",
       "AO1 R",
       "N"
+    ]
+  },
+  {
+    "rawSpelling": "WRONG",
+    "phonemes": [
+      "R",
+      "OH1",
+      "NG"
     ]
   },
   {
