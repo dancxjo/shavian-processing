@@ -1,22 +1,25 @@
 import { readFileSync } from "fs";
-import { goodWords } from "./index";
+import { latinToShavian } from "./index";
 import { expect } from "chai";
 
 const commonWords = readFileSync('./res/kingsley.txt').toString().trim().split("\n").map(line => line.replace("[𐑣]", "").split(/\s+/));
 
 describe('common words', function () {
     commonWords.forEach(([latin, shavian]) => it(`should spell "${latin}" as ${shavian}`, function () {
-        const entries = goodWords.filter(entry => entry.rawSpelling.toLowerCase() === latin.toLowerCase());
-
-        if (entries.length < 1) {
-            //expect(entries).to.be.an('array').and.to.have.length.greaterThan(0);
+        if (!latinToShavian.has(latin.toUpperCase())) {
             this.skip();
         }
+        
+        const entries = latinToShavian.get(latin.toUpperCase());
 
-        const spelling = entries.find(entry => entry.shavianSpelling === shavian);
+        if (!entries) {
+            this.fail();
+        }
+
+        const spelling = entries?.has(shavian);
 
         if (!spelling) {
-            console.log(entries.map(entry => entry.shavianSpelling));
+            // console.log(Array.from(entries?.join('\t'));
         }
 
         expect(spelling).to.exist;
