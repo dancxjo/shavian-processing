@@ -4,3 +4,5 @@ because it has merged a lot of vowels that we should distinguish in Shavian; on 
 RP pronouncing dictionary would not preserve the R coloring of vowels.
 
 (Work in progress)
+*THIS LIST ISN'T CORRECT YET!*
+
