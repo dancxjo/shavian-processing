@@ -15,6 +15,11 @@ export class RColoredVowel extends Phone {
     toString(): string {
         return this.rpVowel + " R";
     }
+
+    toShavian(): string {
+    
+        return "rcolor " + this.toString();
+    }
 }
 
 export const nonmerges: {}[] = [];
