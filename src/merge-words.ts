@@ -1,86 +1,99 @@
-import { CmuFormatDictionaryEntry } from "./cmu-format-dictionary-entry";
-import { Phone } from "./phone";
-import { writeFileSync } from "fs";
+import { CmuFormatDictionaryEntry } from './cmu-format-dictionary-entry';
+import { writeFileSync } from 'fs';
 
 const differences = require('../differences.json');
 
-export class RColoredVowel extends Phone {
-    constructor(
-        readonly rpVowel: Phone,
-        readonly gaVowel: Phone
-    ) {
-        super(rpVowel + " R");
-    }
+export function chooseRColoredVowel(rpVowel: string, gaVowel: string): string {
+	return rpVowel + ' R';
+}
 
-    toString(): string {
-        return this.rpVowel + " R";
-    }
+function phoneMatch(phone: string, pattern: RegExp): boolean {
+	return pattern.test(phone.toString());
+}
 
-    toShavian(): string {
-    
-        return "rcolor " + this.toString();
-    }
+function isVowel(arpa: string): boolean {
+	return /^[aeiou]/i.test(arpa.toString());
+}
+
+export interface DifferenceHalf {
+	rawSpelling: string;
+	_phonemes: string[];
+}
+
+export interface Difference {
+	rp: DifferenceHalf;
+	ga: DifferenceHalf;
 }
 
 export const nonmerges: {}[] = [];
 
-export const merges = differences.map((pair: {ga: CmuFormatDictionaryEntry, rp: CmuFormatDictionaryEntry}) => {
-    const rp = pair.rp._phonemes;
-    const ga = pair.ga._phonemes;
-    const sha: Phone[] = [];
-    for(let i = 0, j =0; i < rp.length; i++, j++) {
-        const rpPhone = rp[i];
-        const gaPhone = ga[j];
+export function mergePair(pair: Difference) {
+	const rpPhonemes = pair.rp._phonemes;
+	const gaPhonemes = pair.ga._phonemes;
+	const shaSpelling: string[] = [];
 
-        if (j + 1 < ga.length && /^[aeiou]/i.test(gaPhone.toString())) {
-            const nextLetter = ga[j+1];
-            if (nextLetter === 'R') {
-                j++;
-                sha.push((new RColoredVowel(rpPhone, gaPhone)).toString());
-                continue;
+	for (let i = 0, j = 0; i < rpPhonemes.length || j < gaPhonemes.length; i++, j++) {
+		const rpPhone = i >= rpPhonemes.length ? '' : rpPhonemes[i];
+		const gaPhone = j >= gaPhonemes.length ? '' : gaPhonemes[j];
+
+		const nextRpPhone = i + 1 >= rpPhonemes.length ? '' : rpPhonemes[i + 1];
+		const nextGaPhone = j + 1 >= gaPhonemes.length ? '' : gaPhonemes[j + 1];
+
+        if (isVowel(gaPhone) && nextGaPhone == 'R') {
+			j++;
+            shaSpelling.push(chooseRColoredVowel(rpPhone, gaPhone));
+            if (nextRpPhone == 'R') {
+                i++;
             }
-        }
+			continue;
+		}
 
-        if (i + 1 < rp.length && /^AX/.test(rpPhone.toString()) && rp[i+1] === 'R') {
-            i++;
-            sha.push(gaPhone);
-            continue;
-        }
+		if (phoneMatch(rpPhone, /^AX/) && nextRpPhone == 'R') {
+			i++;
+			shaSpelling.push(gaPhone);
+			continue;
+		}
 
-        if (rpPhone === 'EL' && j + 1 < ga.length) {
-            const nextLetter = ga[j+1];
-            if (nextLetter === 'L') {
-                j++;
-                sha.push(gaPhone, nextLetter);
-                continue;
-            }
-        }
+		if (rpPhone == 'EL' && nextGaPhone == 'L') {
+			j++;
+			shaSpelling.push(gaPhone, nextGaPhone);
+			continue;
+		}
 
-        if (rpPhone === gaPhone) {
-            sha.push(rpPhone);
-            continue;
-        }
+		if (rpPhone === gaPhone) {
+			shaSpelling.push(rpPhone);
+			continue;
+		}
 
-        if (gaPhone && /R$/.test(gaPhone.toString())) {
-            sha.push(gaPhone);
-            continue;
-        }
+		if (phoneMatch(gaPhone, /R$/)) {
+			shaSpelling.push(gaPhone);
+			continue;
+		}
 
-        if (/^I/.test(rpPhone.toString()) && /^I/.test(gaPhone.toString())) {
-            sha.push(rpPhone);
-            continue;
-        }
+		if (phoneMatch(rpPhone, /^I/) && phoneMatch(gaPhone, /^I/)) {
+			shaSpelling.push(rpPhone);
+			continue;
+		}
 
-        if (/^OH/.test(rpPhone.toString()) && /^(AA|AO)/.test(gaPhone.toString())) {
-            sha.push(rpPhone);
-            continue;
-        }
+		if (phoneMatch(rpPhone, /^OH/) && phoneMatch(gaPhone, /^(AA)|(AO)|(AH)/)) {
+			shaSpelling.push(rpPhone);
+			continue;
+		}
 
-        nonmerges.push({spelling: pair.ga.rawSpelling, rp: pair.rp._phonemes, ga: pair.ga._phonemes, j, len: ga.length, gaPhone});
-        return undefined;
-    }
-    return {rawSpelling: pair.ga.rawSpelling, phonemes: sha};
-}).filter((merge: any) => !!merge);
+		nonmerges.push({
+			spelling: pair.ga.rawSpelling,
+			rp: pair.rp._phonemes,
+			ga: pair.ga._phonemes,
+			j,
+			len: gaPhonemes.length,
+			gaPhone
+		});
+		return undefined;
+	}
+	return { rawSpelling: pair.ga.rawSpelling, phonemes: shaSpelling };
+}
+
+export const merges = differences.map(mergePair).filter((merge: any) => !!merge);
 
 console.log(`Resolved: ${merges.length}, Ambiguous: ${nonmerges.length}`);
 writeFileSync('./nonmerges.json', JSON.stringify(nonmerges, null, '  '));
