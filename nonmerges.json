@@ -612,25 +612,6 @@
     "gaPhone": "UW0"
   },
   {
-    "spelling": "COURAGE",
-    "rp": [
-      "K",
-      "AH1",
-      "R",
-      "IH0",
-      "JH"
-    ],
-    "ga": [
-      "K",
-      "ER1",
-      "IH0",
-      "JH"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "ER1"
-  },
-  {
     "spelling": "DE",
     "rp": [
       "D",
@@ -1867,46 +1848,6 @@
     "j": 1,
     "len": 5,
     "gaPhone": "AW2"
-  },
-  {
-    "spelling": "HURRIEDLY",
-    "rp": [
-      "HH",
-      "AH1",
-      "R",
-      "IH0",
-      "D",
-      "L",
-      "IH0"
-    ],
-    "ga": [
-      "HH",
-      "ER1",
-      "IH0",
-      "D",
-      "L",
-      "IY0"
-    ],
-    "j": 1,
-    "len": 6,
-    "gaPhone": "ER1"
-  },
-  {
-    "spelling": "HURRY",
-    "rp": [
-      "HH",
-      "AH1",
-      "R",
-      "IH0"
-    ],
-    "ga": [
-      "HH",
-      "ER1",
-      "IY0"
-    ],
-    "j": 1,
-    "len": 3,
-    "gaPhone": "ER1"
   },
   {
     "spelling": "IGNORAMUS",
@@ -5102,25 +5043,6 @@
     "j": 1,
     "len": 6,
     "gaPhone": "UW1"
-  },
-  {
-    "spelling": "TURRET",
-    "rp": [
-      "T",
-      "AH1",
-      "R",
-      "IH0",
-      "T"
-    ],
-    "ga": [
-      "T",
-      "ER1",
-      "IH0",
-      "T"
-    ],
-    "j": 1,
-    "len": 4,
-    "gaPhone": "ER1"
   },
   {
     "spelling": "UNANTICIPATED",

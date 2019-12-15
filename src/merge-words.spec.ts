@@ -26,7 +26,10 @@ describe('merge words', function() {
 		{ spelling: 'IDEA', pronunciation: [ 'AY0', 'D', 'I1', 'AX' ] },
 		{ spelling: 'LONG', pronunciation: [ 'L', 'OH1', 'NG' ] },
 		{ spelling: 'MATERIALLY', pronunciation: [ 'M', 'AX', 'T', 'IA1 R', 'I0', 'AX', 'L', 'IH0' ] },
-		{ spelling: 'APPARENT', pronunciation: [ 'AX', 'P', 'AE1 R', 'AX', 'N', 'T' ] }
+        { spelling: 'APPARENT', pronunciation: [ 'AX', 'P', 'AE1 R', 'AX', 'N', 'T' ] },
+        { spelling: 'COURAGE', pronunciation: [ 'K', 'AH1', 'R', 'IH0', 'JH' ] },
+        { spelling: 'HURRY', pronunciation: [ 'HH', 'AH1', 'R', 'IH0' ] }
+
 	].forEach((pair) =>
 		it(
 			`should resolve ${pair.spelling}`,

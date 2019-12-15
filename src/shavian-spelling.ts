@@ -7,11 +7,15 @@ export interface Spellable {
 
 const rules = [
     { pattern: /^IA\d+ R$/, replacement: '𐑽' },
-    { pattern: /^I\d+$/, replacement: '𐑦' },
+	{ pattern: /^I\d+$/, replacement: '𐑦' },
+	{ pattern: /^IH\d R$/, replacement: '𐑽' },
 	{ pattern: /^ER[12]?( R)?$/, replacement: '𐑻' },
-    { pattern: /^EA[12] R$/, replacement: '𐑺' },
-    { pattern: /^AE\d R$/, replacement: '𐑨𐑮' },
+    { pattern: /^EA\d R$/, replacement: '𐑺' },
+	{ pattern: /^AE\d R$/, replacement: '𐑨𐑮' },
+	{ pattern: /^EH\d R$/, replacement: '𐑧𐑮' },
+	{ pattern: /^AY\d R$/, replacement: '𐑲𐑮' },
 	{ pattern: /^AO\d R$/, replacement: '𐑹' },
+	{ pattern: /^OH\d R$/, replacement: '𐑹' },
 	{ pattern: /^AA\d R$/, replacement: '𐑸' },
 	{ pattern: /^AX\s*R$/, replacement: '𐑼' },
 	{ pattern: /^UA\d R$/, replacement: '𐑫𐑼' },

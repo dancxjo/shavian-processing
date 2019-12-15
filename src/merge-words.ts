@@ -52,6 +52,13 @@ export function mergePair(pair: Difference) {
 			i++;
 			shaSpelling.push(gaPhone);
 			continue;
+        }
+        
+        // COURAGE, BURROW
+        if (phoneMatch(rpPhone, /^AH/) && nextRpPhone == 'R' && phoneMatch(gaPhone, /^ER/)) {
+			i++;
+			shaSpelling.push(rpPhone, nextRpPhone);
+			continue;
 		}
 
 		if (rpPhone == 'EL' && nextGaPhone == 'L') {
@@ -85,7 +92,9 @@ export function mergePair(pair: Difference) {
 		if (phoneMatch(rpPhone, /^AA/) && phoneMatch(gaPhone, /^AE/)) {
 			shaSpelling.push(gaPhone);
 			continue;
-		}
+        }
+        
+        // TODO: Same for toon/tune
 
 		nonmerges.push({
 			spelling: pair.ga.rawSpelling,

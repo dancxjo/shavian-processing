@@ -1354,6 +1354,16 @@
     ]
   },
   {
+    "rawSpelling": "COURAGE",
+    "phonemes": [
+      "K",
+      "AH1",
+      "R",
+      "IH0",
+      "JH"
+    ]
+  },
+  {
     "rawSpelling": "COURT",
     "phonemes": [
       "K",
@@ -3364,6 +3374,27 @@
       "B",
       "AX",
       "L"
+    ]
+  },
+  {
+    "rawSpelling": "HURRIEDLY",
+    "phonemes": [
+      "HH",
+      "AH1",
+      "R",
+      "IH0",
+      "D",
+      "L",
+      "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "HURRY",
+    "phonemes": [
+      "HH",
+      "AH1",
+      "R",
+      "IH0"
     ]
   },
   {
@@ -7555,6 +7586,16 @@
       "UW1",
       "L",
       "IH0"
+    ]
+  },
+  {
+    "rawSpelling": "TURRET",
+    "phonemes": [
+      "T",
+      "AH1",
+      "R",
+      "IH0",
+      "T"
     ]
   },
   {
