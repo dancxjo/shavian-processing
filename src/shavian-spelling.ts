@@ -82,5 +82,10 @@ export function spell(spellable: Spellable): string {
 		phonemes[phonemes.length - 2] = phonemes[phonemes.length - 2].replace(/𐑦$/, '𐑩');
 	}
 
+	if (spellable.rawSpelling.match(/EST$/)) {
+		phonemes[phonemes.length - 3] = phonemes[phonemes.length - 3].replace(/𐑦$/, '𐑩');
+	}
+
+
 	return phonemes.join('').replace('𐑘𐑵', '𐑿').replace('𐑦𐑩', '𐑾').replace('𐑦𐑼', '𐑽');
 }
